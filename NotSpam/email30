@@ -1,0 +1,695 @@
+From-"Ashlynn Shipp" <ashlynn.shipp@goeduadvance.com>
+Subject-Official Education Update
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta name="viewport" content="initial-scale=1.0"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/><meta name="format-detection" content="telephone=no"/>
+	<title>EDU-Long-Template</title>
+	<style type="text/css">/* Resets: see reset.css for details */
+    .ReadMsgBody { width: 100%; background-color: #ffffff;}
+    .ExternalClass {width: 100%; background-color: #ffffff;}
+    .ExternalClass, .ExternalClass p, .ExternalClass span,
+    .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height:100%;}
+    #outlook a{ padding:0;}
+    body{width: 100%; height: 100%; background-color: #ffffff; margin:0; padding:0;}
+    body{ -webkit-text-size-adjust:none; -ms-text-size-adjust:none; }
+    html{width:100%;}
+    table {mso-table-lspace:0pt; mso-table-rspace:0pt; border-spacing:0;}
+    table td {border-collapse:collapse;}
+    table p{margin:0;}
+    br, strong br, b br, em br, i br { line-height:100%; }
+    div, p, a, li, td { -webkit-text-size-adjust:none; -ms-text-size-adjust:none;}
+    h1, h2, h3, h4, h5, h6 { line-height: 100% !important; -webkit-font-smoothing: antialiased; }
+    span a { text-decoration: none !important;}
+    a{ text-decoration: none !important; }
+    img{height: auto !important; line-height: 100%; outline: none; text-decoration: none;  -ms-interpolation-mode:bicubic;}
+    .yshortcuts, .yshortcuts a, .yshortcuts a:link,.yshortcuts a:visited,
+    .yshortcuts a:hover, .yshortcuts a span { text-decoration: none !important; border-bottom: none !important;}
+    /*mailChimp class*/
+    .default-edit-image{
+    height:20px;
+    }
+    ul{padding-left:10px; margin:0;}
+    .tpl-repeatblock {
+    padding: 0px !important;
+    border: 1px dotted rgba(0,0,0,0.2);
+    }
+    .tpl-content{
+    padding:0px !important;
+    }
+    @media only screen and (max-width:800px){
+    table[style*="max-width:800px"]{width:100%!important; max-width:100%!important; min-width:100%!important; clear: both;}
+    table[style*="max-width:800px"] img{width:100% !important; height:auto !important; max-width:100% !important;}
+    }
+    @media only screen and (max-width: 640px){
+    /* mobile setting */
+    table[class="container"]{width:100%!important; max-width:100%!important; min-width:100%!important;
+    padding-left:20px!important; padding-right:20px!important; text-align: center!important; clear: both;}
+    td[class="container"]{width:100%!important; padding-left:20px!important; padding-right:20px!important; clear: both;}
+    table[class="full-width"]{width:100%!important; max-width:100%!important; min-width:100%!important; clear: both;}
+    table[class="full-width-center"] {width: 100%!important; max-width:100%!important;  text-align: center!important; clear: both; margin:0 auto; float:none;}
+    table[class="force-240-center"]{width:240px !important; clear: both; margin:0 auto; float:none;}
+    table[class="auto-center"] {width: auto!important; max-width:100%!important;  text-align: center!important; clear: both; margin:0 auto; float:none;}
+    *[class="auto-center-all"]{width: auto!important; max-width:75%!important;  text-align: center!important; clear: both; margin:0 auto; float:none;}
+    *[class="auto-center-all"] * {width: auto!important; max-width:100%!important;  text-align: center!important; clear: both; margin:0 auto; float:none;}
+    table[class="col-3"],table[class="col-3-not-full"]{width:30.35%!important; max-width:100%!important;}
+    table[class="col-2"]{width:47.3%!important; max-width:100%!important;}
+    *[class="full-block"]{width:100% !important; display:block !important; clear: both; padding-top:10px; padding-bottom:10px;}
+    /* image */
+    td[class="image-full-width"] img{width:100% !important; height:auto !important; max-width:100% !important;}
+    /* helper */
+    table[class="space-w-20"]{width:3.57%!important; max-width:20px!important; min-width:3.5% !important;}
+    table[class="space-w-20"] td:first-child{width:3.5%!important; max-width:20px!important; min-width:3.5% !important;}
+    table[class="space-w-25"]{width:4.45%!important; max-width:25px!important; min-width:4.45% !important;}
+    table[class="space-w-25"] td:first-child{width:4.45%!important; max-width:25px!important; min-width:4.45% !important;}
+    table[class="space-w-30"] td:first-child{width:5.35%!important; max-width:30px!important; min-width:5.35% !important;}
+    table[class="fix-w-20"]{width:20px!important; max-width:20px!important; min-width:20px!important;}
+    table[class="fix-w-20"] td:first-child{width:20px!important; max-width:20px!important; min-width:20px !important;}
+    *[class="h-10"]{display:block !important;  height:10px !important;}
+    *[class="h-20"]{display:block !important;  height:20px !important;}
+    *[class="h-30"]{display:block !important; height:30px !important;}
+    *[class="h-40"]{display:block !important;  height:40px !important;}
+    *[class="remove-640"]{display:none !important;}
+    *[class="text-left"]{text-align:left !important;}
+    *[class="clear-pad"]{padding:0 !important;}
+    }
+    @media only screen and (max-width: 479px){
+    /* mobile setting */
+    table[class="container"]{width:100%!important; max-width:100%!important; min-width:124px!important;
+    padding-left:15px!important; padding-right:15px!important; text-align: center!important; clear: both;}
+    td[class="container"]{width:100%!important; padding-left:15px!important; padding-right:15px!important; text-align: center!important; clear: both;}
+    table[class="full-width"],table[class="full-width-479"]{width:100%!important; max-width:100%!important; min-width:124px!important; clear: both;}
+    table[class="full-width-center"] {width: 100%!important; max-width:100%!important; min-width:124px!important; text-align: center!important; clear: both; margin:0 auto; float:none;}
+    *[class="auto-center-all"]{width: 100%!important; max-width:100%!important;  text-align: center!important; clear: both; margin:0 auto; float:none;}
+    *[class="auto-center-all"] * {width: auto!important; max-width:100%!important;  text-align: center!important; clear: both; margin:0 auto; float:none;}
+    table[class="col-3"]{width:100%!important; max-width:100%!important; text-align: center!important; clear: both;}
+    table[class="col-3-not-full"]{width:30.35%!important; max-width:100%!important; }
+    table[class="col-2"]{width:100%!important; max-width:100%!important; text-align: center!important; clear: both;}
+    *[class="full-block-479"]{display:block !important; width:100% !important; clear: both; padding-top:10px; padding-bottom:10px; }
+    /* image */
+    td[class="image-full-width"] img{width:100% !important; height:auto !important; max-width:100% !important; min-width:124px !important;}
+    td[class="image-min-80"] img{width:100% !important; height:auto !important; max-width:100% !important; min-width:80px !important;}
+    td[class="image-min-100"] img{width:100% !important; height:auto !important; max-width:100% !important; min-width:100px !important;}
+    /* halper */
+    table[class="space-w-20"]{width:100%!important; max-width:100%!important; min-width:100% !important;}
+    table[class="space-w-20"] td:first-child{width:100%!important; max-width:100%!important; min-width:100% !important;}
+    table[class="space-w-25"]{width:100%!important; max-width:100%!important; min-width:100% !important;}
+    table[class="space-w-25"] td:first-child{width:100%!important; max-width:100%!important; min-width:100% !important;}
+    table[class="space-w-30"]{width:100%!important; max-width:100%!important; min-width:100% !important;}
+    table[class="space-w-30"] td:first-child{width:100%!important; max-width:100%!important; min-width:100% !important;}
+    *[class="remove-479"]{display:none !important;}
+    table[width="595"]{width:100% !important;}
+    img{max-width:280px !important;}
+    .resize-font, .resize-font *{
+      font-size: 37px !important;
+      line-height: 48px !important;
+    }
+    }
+    
+    a:active{color:initial !important;} a:visited{color:initial !important;}
+    td ul{list-style: initial; margin:0; padding-left:20px;}
+
+	@media only screen and (max-width: 640px){ .image-100-percent{ width:100%!important; height: auto !important; max-width: 100% !important; min-width: 124px !important;}}body{background-color:#efefef;} .default-edit-image{height:20px;} tr.tpl-repeatblock , tr.tpl-repeatblock > td{ display:block !important;} .tpl-repeatblock {padding: 0px !important;border: 1px dotted rgba(0,0,0,0.2);} table[width="595"]{width:100% !important;}a img{ border: 0 !important;}
+a:active{color:initial !important;} a:visited{color:initial !important;}
+.tpl-content{padding:0 !important;}
+	</style>
+	<!--[if gte mso 15]>
+<style type="text/css">
+a{text-decoration: none !important;}
+body { font-size: 0; line-height: 0; }
+tr { font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px; }
+table { font-size:1px; line-height:0; mso-margin-top-alt:1px; }
+body,table,td,span,a{font-family: Arial, Helvetica, sans-serif !important;}
+a img{ border: 0 !important;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml><o:OfficeDocumentSettings><o:AllowPNG/><o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml><![endif]-->
+</head>
+<body style="font-size:12px; width:100%; height:100%;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="full-width" id="mainStructure" style="background-color:#efefef; box-shadow:0px 0px 5px #E0E0E0; margin:0 auto; max-width:800px; outline:1px solid #efefef; width:800px"><!-- START LAYOUT-4 ( BG IMAGE / BUTTON ) -->
+	<tbody>
+		<tr>
+			<td align="center" class="container" style="background-color: #e5e8eb;" valign="top"><!-- start container -->
+			<table align="center" background="http://mailbuild.rookiewebstudio.com/item/64lm4Q4e/images/set1-header-bg.jpg" border="0" cellpadding="0" cellspacing="0" class="container" style="background-position:50% 0%, 50% 50%; background-repeat:no-repeat; background-size:cover; background:url(http://mailbuild.rookiewebstudio.com/item/64lm4Q4e/images/set1-header-bg.jpg) no-repeat top center/cover; height:160px; width:600px"><!-- start space --><!--[if gte mso 9]>				<tr><td valign="top" align="center">		
+		<v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:600px; height:160px; background-repeat:no-repeat;">				<v:fill type="frame" color="#333333" src="http://mailbuild.rookiewebstudio.com/item/64lm4Q4e/images/set1-header-bg.jpg" ></v:fill>				<v:textbox style="mso-fit-shape-to-text:true; v-padding-auto:true;" inset="0,0,0,0" >				<![endif]-->
+				<tbody>
+					<tr>
+						<td height="1" style="height: 1px; font-size: 0px; line-height: 0; border-collapse: collapse;" valign="top">&nbsp;</td>
+					</tr>
+					<!-- end space --><!-- start header -->
+					<tr dup="0">
+						<td align="center" class="clear-pad" valign="top">
+						<table align="center" border="0" cellpadding="0" cellspacing="0" class="full-width" style="margin:0px auto; table-layout:fixed; width:560px"><!-- start space -->
+							<tbody>
+								<tr>
+									<td height="30" style="height: 30px; font-size: 0px; line-height: 0; border-collapse: collapse;" valign="top">&nbsp;</td>
+								</tr>
+								<!-- end space --><!-- start logo -->
+								<tr dup="0">
+									<td valign="top">
+									<table align="center" border="0" cellpadding="0" cellspacing="0" class="auto-center-all" style="margin:0 auto; mso-table-lspace:0pt; mso-table-rspace:0pt; width:100%">
+										<tbody>
+											<tr>
+												<td align="center" style="width: 240px;" valign="top" width="240"><a border="0" href="procardealz.com/teach.php" style="text-decoration: none !important; font-size: inherit; border-style: none;"><img alt="set10-logo-top" src="https://s11.postimg.org/vjg71aisz/20161021110909_usa_grant_resources_logo.png" style="border-style:solid; border-width:0px; display:block !important; margin:0px; max-width:240px" width="240" /></a></td>
+											</tr>
+											<!-- start space -->
+											<tr>
+												<td height="14" style="height: 14px; font-size: 0px; line-height: 0; border-collapse: collapse;" valign="top">&nbsp;</td>
+											</tr>
+											<!-- end space -->
+										</tbody>
+									</table>
+									</td>
+								</tr>
+								<!-- end logo --><!-- start divider  --><!-- end divider  --><!-- start title --><!-- end title --><!--start button-->
+								<tr>
+									<td align="center" valign="top">
+									<table align="center" border="0" cellpadding="0" cellspacing="0" class="auto-center-all" style="margin:0 auto; mso-table-lspace:0pt; mso-table-rspace:0pt; width:auto">
+										<tbody>
+											<tr><!-- start duplicate button --><!-- end duplicate button -->
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+								<!--end button--><!-- start space -->
+								<tr>
+									<td height="20" style="height: 20px; font-size: 0px; line-height: 0; border-collapse: collapse;" valign="top">&nbsp;</td>
+								</tr>
+								<!-- end space -->
+							</tbody>
+						</table>
+						</td>
+					</tr>
+					<!-- end header --><!-- start space -->
+					<tr>
+						<td height="2" style="height: 2px; font-size: 0px; line-height: 0; border-collapse: collapse;" valign="top">&nbsp;</td>
+					</tr>
+					<!-- end space -->
+				</tbody>
+				<!--[if gte mso 9]>				</v:textbox>				</v:rect>				</td></tr>				<![endif]-->
+			</table>
+			<!-- end container --></td>
+		</tr>
+		<!-- END LAYOUT-4 ( BG IMAGE / BUTTON ) -->
+	</tbody>
+	<!--START LAYOUT-7 ( BOX CONTENT ) -->
+	<tbody>
+		<tr>
+			<td align="center" class="container" style="background-color: #e5e8eb; " valign="top"><!-- start container -->
+			<table align="center" border="0" cellpadding="0" cellspacing="0" class="container" style="background-color:#ffffff; margin:0px auto; min-width:600px; mso-table-lspace:0pt; mso-table-rspace:0pt; width:600px"><!-- start space -->
+				<tbody>
+					<tr>
+						<td height="1" style="height: 1px; font-size: 0px; line-height: 0; border-collapse: collapse;" valign="top">&nbsp;</td>
+					</tr>
+					<!-- end space --><!-- start content container-->
+					<tr dup="0">
+						<td class="clear-pad" style="padding-left:20px; padding-right:20px;" valign="top">
+						<table align="center" border="0" cellpadding="0" cellspacing="0" class="full-width" style="mso-table-lspace:0pt; mso-table-rspace:0pt; width:100%">
+							<tbody>
+								<tr>
+									<td valign="middle">
+									<table align="center" border="0" cellpadding="0" cellspacing="0" class="full-width-center" style="mso-table-lspace:0pt; mso-table-rspace:0pt; width:100%">
+										<tbody>
+											<tr>
+												<td valign="top">
+												<table align="left" border="0" cellpadding="0" cellspacing="0" style="mso-table-lspace:0pt; mso-table-rspace:0pt; width:100%"><!-- start border top  -->
+													<tbody>
+														<tr>
+															<td height="1" style="background-color: #dedede; height: 1px; line-height: 1px; font-size: 1px;" valign="top" width="100%">
+															<table align="center" border="0" cellpadding="0" cellspacing="0" style="mso-table-lspace:0pt; mso-table-rspace:0pt; width:100%">
+																<tbody>
+																	<tr>
+																		<td height="1" style="height: 1px; font-size: 0px; line-height: 0; border-collapse: collapse;" valign="top" width="100%">&nbsp;</td>
+																	</tr>
+																</tbody>
+															</table>
+															</td>
+														</tr>
+														<!-- end border top -->
+														<tr>
+															<td valign="top">
+															<table align="center" border="0" cellpadding="0" cellspacing="0" style="mso-table-lspace:0pt; mso-table-rspace:0pt; width:100%">
+																<tbody>
+																	<tr><!-- start border left  -->
+																		<td height="100%" style="background-color: #dedede; width: 1px; height: 63px; line-height: 63px; font-size: 63px;" valign="top" width="1">
+																		<table align="center" border="0" cellpadding="0" cellspacing="0" style="max-width:1px !important; min-width:1px !important; mso-table-lspace:0pt; mso-table-rspace:0pt; width:1px">
+																			<tbody>
+																				<tr>
+																					<td height="100%" style="width: 1px; height: 0px; font-size: 0px; line-height: 0; border-collapse: collapse;" valign="top" width="1">&nbsp;</td>
+																				</tr>
+																			</tbody>
+																		</table>
+																		</td>
+																		<!-- end border left -->
+																		<td style="padding-left:20px; padding-right:20px;" valign="top">
+																		<table align="left" border="0" cellpadding="0" cellspacing="0" style="mso-table-lspace:0pt; mso-table-rspace:0pt; width:100%">
+																			<tbody>
+																				<tr>
+																					<td height="20" style="height: 20px; font-size: 0px; line-height: 0; border-collapse: collapse;" valign="top">&nbsp;</td>
+																				</tr>
+																				<!-- end space -->
+																				<tr dup="0">
+																					<td align="center" style="font-size: 14px; color: rgb(136, 136, 136); font-weight: normal; text-align: center; font-family: 'Open Sans', Arial, Helvetica, sans-serif; word-break: break-word; line-height: 22px;">This message was sent to niarietry@gmail.com&nbsp;on&nbsp;October 23, 2016<br />
+																					You are receiving this message because you opted in to one of our sites.<br />
+																					To unsubscribe please <a href="http://www.aweber.com/z/r/?LCxMTGxsLLRsDOzMTEwcTLRGtMzMbJzsHKyM">go here&nbsp;</a><br />
+																					<br />
+																					&nbsp;
+																					<hr />
+																					<div style="text-align: left;"><span style="font-size:18px"><span style="color:#000000">,<br />
+																					<br />
+																					&nbsp;<br />
+																					Phew.<br />
+																					&nbsp;<br />
+																					I was wondering what happened to you.<br />
+																					&nbsp;<br />
+																					Happy you are alive and okay.<br />
+																					&nbsp;<br />
+																					<strong>Now for some good news...</strong><br />
+																					<br />
+																					&nbsp;<br />
+																					I am here to remind you that you may be eligible to apply to receive grant money for school.<br />
+																					&nbsp;<br />
+																					The amount if awarded is $5,815 and it is given to you in a check or you can have it direct deposited.<br />
+																					&nbsp;<br />
+																					The best part of this is none of the funds have to be paid back.<br />
+																					&nbsp;<br />
+																					It only takes about a minute to check it out and find out what schools you are potentially eligible for.<br />
+																					<br />
+																					&nbsp;<br />
+																					Good Luck!</span></span><br />
+																					<br />
+																					<br />
+																					<span style="font-size:20px"><a href="http://clicks.aweber.com/y/ct/?l=Jvgt9&m=3kQebsx5fQaQQWA&b=I2mG1QabQUVDh70ob4r9RA">Time is Limited &nbsp;Go Here Now!</a></span></div>
+																					</td>
+																				</tr>
+																				<!-- start space -->
+																				<tr>
+																					<td height="19" style="height: 19px; font-size: 0px; line-height: 0; border-collapse: collapse;" valign="top">&nbsp;</td>
+																				</tr>
+																				<!-- end space -->
+																			</tbody>
+																		</table>
+																		</td>
+																		<!-- start border right  -->
+																		<td height="100%" style="background-color: #dedede; width: 1px; height: 63px; line-height: 63px; font-size: 63px;" valign="top" width="1">
+																		<table align="center" border="0" cellpadding="0" cellspacing="0" style="max-width:1px !important; min-width:1px !important; mso-table-lspace:0pt; mso-table-rspace:0pt; width:1px">
+																			<tbody>
+																				<tr>
+																					<td height="100%" style="width: 1px; height: 0px; font-size: 0px; line-height: 0; border-collapse: collapse;" valign="top" width="1">&nbsp;</td>
+																				</tr>
+																			</tbody>
+																		</table>
+																		</td>
+																		<!-- end border right -->
+																	</tr>
+																</tbody>
+															</table>
+															</td>
+														</tr>
+														<!-- start border bottom  -->
+														<tr>
+															<td height="1" style="background-color: #dedede; height: 1px; line-height: 1px; font-size: 1px;" valign="top" width="100%">
+															<table align="center" border="0" cellpadding="0" cellspacing="0" style="mso-table-lspace:0pt; mso-table-rspace:0pt; width:100%">
+																<tbody>
+																	<tr>
+																		<td height="1" style="height: 1px; font-size: 0px; line-height: 0; border-collapse: collapse;" valign="top" width="100%">&nbsp;</td>
+																	</tr>
+																</tbody>
+															</table>
+															</td>
+														</tr>
+														<!-- end border bottom -->
+													</tbody>
+												</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+								<!-- start space -->
+								<tr>
+									<td height="4" style="height: 4px; font-size: 0px; line-height: 0; border-collapse: collapse;" valign="top">&nbsp;</td>
+								</tr>
+								<!-- end space -->
+							</tbody>
+						</table>
+						</td>
+					</tr>
+					<!-- end content container-->
+				</tbody>
+			</table>
+
+			<div style="margin-left: 40px;"><!-- end container --></div>
+			</td>
+		</tr>
+		<!--END LAYOUT-7 ( BOX CONTENT ) -->
+	</tbody>
+	<!--START LAYOUT-3 ( 3-COL IMAGE / TEXT / BUTTON )-->
+	<tbody>
+		<tr>
+			<td align="center" class="container" style="background-color: #ffffff;" valign="top"><!-- start container -->
+			<table align="center" border="0" cellpadding="0" cellspacing="0" class="container" style="background-color:#ffffff; margin:0px auto; min-width:600px; mso-table-lspace:0pt; mso-table-rspace:0pt; width:600px">
+				<tbody>
+					<tr>
+						<td valign="top">
+						<table align="center" border="0" cellpadding="0" cellspacing="0" class="full-width" style="margin:0 auto; mso-table-lspace:0pt; mso-table-rspace:0pt; width:100%"><!-- start space -->
+							<tbody>
+								<tr>
+									<td height="50" style="height: 50px; font-size: 0px; line-height: 0; border-collapse: collapse;" valign="top">&nbsp;</td>
+								</tr>
+								<!-- end space --><!-- start content -->
+								<tr dup="0">
+									<td align="center" class="clear-pad" style="padding-left:20px; padding-right:20px;" valign="top">
+									<table align="center" border="0" cellpadding="0" cellspacing="0" class="full-width-center" style="margin:0 auto; mso-table-lspace:0pt; mso-table-rspace:0pt; width:100%"><!-- start title -->
+										<tbody>
+											<tr dup="0">
+												<td align="center" valign="top">
+												<table align="center" border="0" cellpadding="0" cellspacing="0" style="margin:0 auto; mso-table-lspace:0pt; mso-table-rspace:0pt; width:100%">
+													<tbody>
+														<tr>
+															<td align="center" style="font-size: 24px; color: rgb(51, 51, 51); font-weight: bold; text-align: center; font-family: 'Open Sans', Arial, Helvetica, sans-serif; word-break: break-word; line-height: 32px;"><strong style="color:rgb(51, 51, 51); font-size:24px; font-weight:bold; line-height:32px">Up to *$5,815 towards&nbsp;Degree of Your Choice</strong></td>
+														</tr>
+														<!-- start space -->
+														<tr>
+															<td height="20" style="height: 20px; font-size: 0px; line-height: 0; border-collapse: collapse;" valign="top">&nbsp;</td>
+														</tr>
+														<!-- end space -->
+													</tbody>
+												</table>
+												</td>
+											</tr>
+											<!-- end title --><!-- start space -->
+											<tr>
+												<td height="20" style="height: 20px; font-size: 0px; line-height: 0; border-collapse: collapse;" valign="top">&nbsp;</td>
+											</tr>
+											<!-- end space -->
+										</tbody>
+									</table>
+									</td>
+								</tr>
+								<!-- end content --><!-- start content container-->
+								<tr dup="0">
+									<td align="center" valign="top">
+									<table align="center" border="0" cellpadding="0" cellspacing="0" style="margin:0 auto; mso-table-lspace:0pt; mso-table-rspace:0pt; width:100%"><!-- start duplicate all-->
+										<tbody>
+											<tr>
+												<td align="center" class="clear-pad" style="padding-left:20px; padding-right:20px;" valign="top">
+												<table align="center" border="0" cellpadding="0" cellspacing="0" style="margin:0 auto; mso-table-lspace:0pt; mso-table-rspace:0pt; width:100%">
+													<tbody>
+														<tr>
+															<td align="center" valign="top">
+															<table align="left" border="0" cellpadding="0" cellspacing="0" class="col-3" style="mso-table-lspace:0pt; mso-table-rspace:0pt; width:170px">
+																<tbody>
+																	<tr dup="0"><!-- start line -->
+																		<td height="5" style="height: 5px; line-height: 5px; font-size: 5px;" valign="top">
+																		<table align="left" border="0" cellpadding="0" cellspacing="0" style="margin:0 auto; mso-table-lspace:0pt; mso-table-rspace:0pt; width:100%">
+																			<tbody>
+																				<tr>
+																					<td height="5" style="background-color: rgb(48, 126, 204); width: 170px; height: 5px; font-size: 0px; line-height: 0; border-collapse: collapse;" valign="top" width="170">&nbsp;</td>
+																				</tr>
+																			</tbody>
+																		</table>
+																		</td>
+																		<!-- end line -->
+																	</tr>
+																	<tr>
+																		<td valign="top">
+																		<table align="center" border="0" cellpadding="0" cellspacing="0" style="margin:0 auto; mso-table-lspace:0pt; mso-table-rspace:0pt; width:100%">
+																			<tbody>
+																				<tr dup="0">
+																					<td valign="top">
+																					<table align="center" border="0" cellpadding="0" cellspacing="0" style="mso-table-lspace:0pt; mso-table-rspace:0pt; width:100%">
+																						<tbody>
+																							<tr>
+																								<td align="center" class="image-full-width" style="width: 170px;" valign="top" width="170"><a border="0" href="procardealz.com/teach.php" style="text-decoration: none !important; font-size: inherit; border-style: none;"><img alt="set7-image1" src="https://s22.postimg.org/5xi6hujox/20161021112025_happy_college_students_1.jpg" style="display:block; max-width:170px" width="170" /></a></td>
+																							</tr>
+																							<!-- start space -->
+																							<tr>
+																								<td height="20" style="height: 20px; font-size: 0px; line-height: 0; border-collapse: collapse;" valign="top">&nbsp;</td>
+																							</tr>
+																							<!-- end space -->
+																						</tbody>
+																					</table>
+																					</td>
+																				</tr>
+																				<!-- start title -->
+																				<tr dup="0">
+																					<td style="padding-left:5px; padding-right:5px;" valign="top">
+																					<table align="center" border="0" cellpadding="0" cellspacing="0" style="mso-table-lspace:0pt; mso-table-rspace:0pt; width:100%">
+																						<tbody>
+																							<tr>
+																								<td align="left" style="font-size: 20px; color: rgb(51, 51, 51); font-weight: normal; text-align: left; font-family: 'Open Sans', Arial, Helvetica, sans-serif; word-break: break-word; line-height: 28px;"><span style="color:rgb(51, 51, 51); font-size:20px; font-weight:normal; line-height:28px; text-decoration:none"><a border="0" data-mce-href="#" href="#" style="color: rgb(51, 51, 51); font-size: inherit; border-style: none; text-decoration: none !important; line-height:
+28px;">N</a>ursing Degrees</span></td>
+																							</tr>
+																							<!-- start space -->
+																							<tr>
+																								<td height="15" style="height: 15px; font-size: 0px; line-height: 0; border-collapse: collapse;" valign="top">&nbsp;</td>
+																							</tr>
+																							<!-- end space -->
+																						</tbody>
+																					</table>
+																					</td>
+																				</tr>
+																				<!-- end title -->
+																				<tr dup="0">
+																					<td style="padding-left:5px; padding-right:5px;" valign="top">&nbsp;</td>
+																				</tr>
+																			</tbody>
+																		</table>
+																		</td>
+																	</tr>
+																</tbody>
+															</table>
+															<!--[if (gte mso 9)|(IE)]></td><td valign="top" ><![endif]-->
+
+															<table align="left" border="0" cellpadding="0" cellspacing="0" class="space-w-25" style="border-spacing:0px; height:1px; min-width:25px; mso-table-lspace:0pt; mso-table-rspace:0pt; width:25px">
+																<tbody>
+																	<tr>
+																		<td class="h-30" height="1" style="display: block; width: 25px; height: 1px; font-size: 0px; line-height: 0; border-collapse: collapse;" width="25">&nbsp;</td>
+																	</tr>
+																</tbody>
+															</table>
+															<!--[if (gte mso 9)|(IE)]></td><td valign="top" ><![endif]-->
+
+															<table align="left" border="0" cellpadding="0" cellspacing="0" class="col-3" style="mso-table-lspace:0pt; mso-table-rspace:0pt; width:170px">
+																<tbody>
+																	<tr dup="0"><!-- start line -->
+																		<td height="5" style="height: 5px; line-height: 5px; font-size: 5px;" valign="top">
+																		<table align="left" border="0" cellpadding="0" cellspacing="0" style="margin:0 auto; mso-table-lspace:0pt; mso-table-rspace:0pt; width:100%">
+																			<tbody>
+																				<tr>
+																					<td height="5" style="background-color: rgb(48, 126, 204); width: 170px; height: 5px; font-size: 0px; line-height: 0; border-collapse: collapse;" valign="top" width="170">&nbsp;</td>
+																				</tr>
+																			</tbody>
+																		</table>
+																		</td>
+																		<!-- end line -->
+																	</tr>
+																	<tr>
+																		<td valign="top">
+																		<table align="center" border="0" cellpadding="0" cellspacing="0" style="margin:0 auto; mso-table-lspace:0pt; mso-table-rspace:0pt; width:100%">
+																			<tbody>
+																				<tr dup="0">
+																					<td valign="top">
+																					<table align="center" border="0" cellpadding="0" cellspacing="0" style="mso-table-lspace:0pt; mso-table-rspace:0pt; width:100%">
+																						<tbody>
+																							<tr>
+																								<td align="center" class="image-full-width" style="width: 170px;" valign="top" width="170"><a border="0" href="procardealz.com/teach.php" style="text-decoration: none !important; font-size: inherit; border-style: none;"><img alt="set7-image2" src="https://s17.postimg.org/4v6ewmtwf/20161021112639_happy_college_students_3.jpg" style="display:block; max-width:170px" width="170" /></a></td>
+																							</tr>
+																							<!-- start space -->
+																							<tr>
+																								<td height="20" style="height: 20px; font-size: 0px; line-height: 0; border-collapse: collapse;" valign="top">&nbsp;</td>
+																							</tr>
+																							<!-- end space -->
+																						</tbody>
+																					</table>
+																					</td>
+																				</tr>
+																				<!-- start title -->
+																				<tr dup="0">
+																					<td style="padding-left:5px; padding-right:5px;" valign="top">
+																					<table align="center" border="0" cellpadding="0" cellspacing="0" style="mso-table-lspace:0pt; mso-table-rspace:0pt; width:100%">
+																						<tbody>
+																							<tr>
+																								<td align="left" style="font-size: 20px; color: rgb(51, 51, 51); font-weight: normal; text-align: left; font-family: 'Open Sans', Arial, Helvetica, sans-serif; word-break: break-word; line-height: 28px;"><span style="color:rgb(51, 51, 51); font-size:20px; font-weight:normal; line-height:28px; text-decoration:none"><a border="0" data-mce-href="#" href="#" style="color: rgb(51, 51, 51); font-size: inherit; border-style: none; text-decoration: none !important; line-height:
+28px;">Master&#39;s Degrees</a></span></td>
+																							</tr>
+																							<!-- start space -->
+																							<tr>
+																								<td height="15" style="height: 15px; font-size: 0px; line-height: 0; border-collapse: collapse;" valign="top">&nbsp;</td>
+																							</tr>
+																							<!-- end space -->
+																						</tbody>
+																					</table>
+																					</td>
+																				</tr>
+																				<!-- end title -->
+																				<tr dup="0">
+																					<td style="padding-left:5px; padding-right:5px;" valign="top">&nbsp;</td>
+																				</tr>
+																			</tbody>
+																		</table>
+																		</td>
+																	</tr>
+																</tbody>
+															</table>
+															<!--[if (gte mso 9)|(IE)]></td><td valign="top" ><![endif]-->
+
+															<table align="left" border="0" cellpadding="0" cellspacing="0" class="space-w-25" style="border-spacing:0px; height:1px; min-width:25px; mso-table-lspace:0pt; mso-table-rspace:0pt; width:25px">
+																<tbody>
+																	<tr>
+																		<td class="h-30" height="1" style="display: block; width: 25px; height: 1px; font-size: 0px; line-height: 0; border-collapse: collapse;" width="25">&nbsp;</td>
+																	</tr>
+																</tbody>
+															</table>
+															<!--[if (gte mso 9)|(IE)]></td><td valign="top" ><![endif]-->
+
+															<table align="right" border="0" cellpadding="0" cellspacing="0" class="col-3" style="mso-table-lspace:0pt; mso-table-rspace:0pt; width:170px">
+																<tbody>
+																	<tr dup="0"><!-- start line -->
+																		<td height="5" style="height: 5px; line-height: 5px; font-size: 5px;" valign="top">
+																		<table align="left" border="0" cellpadding="0" cellspacing="0" style="margin:0 auto; mso-table-lspace:0pt; mso-table-rspace:0pt; width:100%">
+																			<tbody>
+																				<tr>
+																					<td height="5" style="background-color: rgb(48, 126, 204); width: 170px; height: 5px; font-size: 0px; line-height: 0; border-collapse: collapse;" valign="top" width="170">&nbsp;</td>
+																				</tr>
+																			</tbody>
+																		</table>
+																		</td>
+																		<!-- end line -->
+																	</tr>
+																	<tr>
+																		<td valign="top">
+																		<table align="center" border="0" cellpadding="0" cellspacing="0" style="margin:0 auto; mso-table-lspace:0pt; mso-table-rspace:0pt; width:100%">
+																			<tbody>
+																				<tr dup="0">
+																					<td valign="top">
+																					<table align="center" border="0" cellpadding="0" cellspacing="0" style="mso-table-lspace:0pt; mso-table-rspace:0pt; width:100%">
+																						<tbody>
+																							<tr>
+																								<td align="center" class="image-full-width" style="width: 170px;" valign="top" width="170"><a border="0" href="procardealz.com/teach.php" style="text-decoration: none !important; font-size: inherit; border-style: none;"><img alt="set7-image3" src="https://s17.postimg.org/simcpzm8f/20161021112952_happy_college_students_4.jpg" style="display:block; max-width:170px" width="170" /></a></td>
+																							</tr>
+																							<!-- start space -->
+																							<tr>
+																								<td height="29" style="height: 29px; font-size: 0px; line-height: 0; border-collapse: collapse;" valign="top">&nbsp;</td>
+																							</tr>
+																							<!-- end space -->
+																						</tbody>
+																					</table>
+																					</td>
+																				</tr>
+																				<!-- start title -->
+																				<tr dup="0">
+																					<td style="padding-left:5px; padding-right:5px;" valign="top">
+																					<table align="center" border="0" cellpadding="0" cellspacing="0" style="mso-table-lspace:0pt; mso-table-rspace:0pt; width:100%">
+																						<tbody>
+																							<tr>
+																								<td align="left" style="font-size: 20px; color: rgb(51, 51, 51); font-weight: normal; text-align: left; font-family: 'Open Sans', Arial, Helvetica, sans-serif; word-break: break-word; line-height: 28px;"><span style="color:rgb(51, 51, 51); font-size:20px; font-weight:normal; line-height:28px; text-decoration:none"><a border="0" data-mce-href="#" href="#" style="color: rgb(51, 51, 51); font-size: inherit; border-style: none; text-decoration: none !important; line-height:
+28px;">Business Degrees</a></span></td>
+																							</tr>
+																							<!-- start space -->
+																							<tr>
+																								<td height="15" style="height: 15px; font-size: 0px; line-height: 0; border-collapse: collapse;" valign="top">&nbsp;</td>
+																							</tr>
+																							<!-- end space -->
+																						</tbody>
+																					</table>
+																					</td>
+																				</tr>
+																				<!-- end title -->
+																				<tr dup="0">
+																					<td style="padding-left:5px; padding-right:5px;" valign="top">&nbsp;</td>
+																				</tr>
+																			</tbody>
+																		</table>
+																		</td>
+																	</tr>
+																</tbody>
+															</table>
+															</td>
+														</tr>
+														<!-- start space -->
+														<tr>
+															<td height="30" style="height: 30px; font-size: 0px; line-height: 0; border-collapse: collapse;" valign="top">&nbsp;</td>
+														</tr>
+														<!-- end space -->
+													</tbody>
+												</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+									<!-- end duplicate all-->
+								</tr>
+								<!-- end content container--><!-- start line -->
+								<tr dup="0">
+									<td class="clear-pad" style="padding-left:20px; padding-right:20px;" valign="top">
+									<table align="center" border="0" cellpadding="0" cellspacing="0" style="mso-table-lspace:0pt; mso-table-rspace:0pt; width:100%">
+										<tbody>
+											<tr>
+												<td valign="top">
+												<table align="center" border="0" cellpadding="0" cellspacing="0" style="background-color:#ced8dd; mso-table-lspace:0pt; mso-table-rspace:0pt; width:100%">
+													<tbody>
+														<tr>
+															<td height="1" style="height: 1px; font-size: 0px; line-height: 0; border-collapse: collapse;" valign="top">&nbsp;</td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+											<!-- start space -->
+											<tr>
+												<td height="30" style="height: 30px; font-size: 0px; line-height: 0; border-collapse: collapse;" valign="top">&nbsp;</td>
+											</tr>
+											<!-- end space -->
+										</tbody>
+									</table>
+									</td>
+								</tr>
+								<!-- end line --><!-- start content -->
+								<tr dup="0">
+									<td class="clear-pad" style="padding-left:20px; padding-right:20px;" valign="top">
+									<table align="center" border="0" cellpadding="0" cellspacing="0" class="full-width-center" style="margin:0 auto; mso-table-lspace:0pt; mso-table-rspace:0pt; width:100%">
+										<tbody>
+											<tr>
+												<td style="font-size: 14px; color: rgb(136, 136, 136); font-weight: 300; font-family: &quot;Open Sans&quot;, Arial, Helvetica, sans-serif; word-break: break-word; line-height: 22px; text-align: center;"><span style="color:rgb(136, 136, 136); font-size:14px; font-weight:300; line-height:22px; text-decoration:none">&nbsp;<u style="color:rgb(48, 126, 204); font-size:14px; font-weight:bold; line-height:22px; text-decoration:underline"><a border="0" data-mce-href="#"
+href="http://clicks.aweber.com/y/ct/?l=Jvgt9&m=3kQebsx5fQaQQWA&b=I2mG1QabQUVDh70ob4r9RA" style="color: rgb(48, 126, 204); font-size: inherit; border-style: none; text-decoration: none !important; line-height: 22px;">See More USA Grant Resources</a></u></span></td>
+											</tr>
+											<!-- start space -->
+											<tr>
+												<td height="50" style="height: 50px; font-size: 0px; line-height: 0; border-collapse: collapse;" valign="top">&nbsp;</td>
+											</tr>
+											<!-- end space -->
+										</tbody>
+									</table>
+									</td>
+								</tr>
+								<!-- end content -->
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			<br />
+			<br />
+			<!-- end container --></td>
+		</tr>
+		<!--END LAYOUT-3 ( 3-COL IMAGE / TEXT / BUTTON )-->
+	</tbody>
+</table>
+
+<center>
+<div style="background-color:#ffffff !important; color:#000000 !important; font-family:Verdana !important; font-size:10px !important; max-width:600px; padding:8px !important; text-align:left; width:100%;">
+   2212 Cedar Springs Rd<br>
+Dallas Tx 75201<br>
+USA <br/>
+   <br/>
+   <a href="http://www.aweber.com/z/r/?LCxMTGxsLLRsDOzMTEwcTLRGtMzMbJzsHKyM" style="color: #00f !important;">Unsubscribe</a> | <a href="http://www.aweber.com/z/r/?LCxMTGxsLLRsDOzMTEwcTLRGtMzMbJzsHKyM" style="color: #00f !important;">Change Subscriber Options</a>
+   <br/><br/>
+   <img src="https://openrate.aweber.com/y/o/?l=Jvgt9&m=3kQebsx5fQaQQWA" width="1" height="1">
+</div>
+</center>
+</body>
+</html>

@@ -1,0 +1,461 @@
+From-YP.com <yp@ml.yp.com>
+Subject-Discover Local Businesses
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>  
+  
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>YP</title>
+        
+<style type="text/css">
+
+img {display: block;}
+
+a { color:#5399D2;  text-decoration:underline; }
+
+.eloquaemail a{ color: #cccccc;text-decoration:underline; }
+
+.link_footer a{ color: #cccccc;text-decoration:underline; }
+
+.onlyMobile {
+  display: none;
+  overflow:hidden;
+  float:left;
+  line-height:0px;
+}
+
+table {border-collapse: collapse;}
+
+@media all and (max-width: 480px) {
+
+table[class=outerTable] {
+  display: none !important;
+}
+
+
+div[class=outerResponsiveWrap] {
+  overflow: hidden !important;
+  float: none !important;
+  display: block !important;
+  line-height:100% !important;
+  position: relative;
+  max-height: initial !important;
+  font-size: 14px !important;
+  visibility: visible !important;
+  width: 320px !important;
+  margin: 0 auto;
+}
+
+.onlyMobile {
+  display:block;
+  overflow:hidden;
+  float:left;
+  line-height:0px;
+}
+
+p[class=viewOnlineWrap] {
+    text-align: right;
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 16px;
+    color: #0095c8;
+}
+
+
+div[class=header] {
+    padding: 10px;
+    background-color: #ffffff;
+}
+
+div[class=upperLogoWrap] {
+    width: auto;
+    box-sizing: border-box;
+    background-color: transparent;
+    padding: 0;
+    margin: 0;
+    height: auto;
+    float: left;
+    max-width: 70%;
+    font-size: 12px;
+    font-family: Arial,Helvetica, sans-serif;
+    line-height: 16px;
+    color: #cccccc;
+}
+
+div[class=introHeader] {
+    background-color: #000000;
+    padding: 20px;
+}
+
+
+
+div[class=introHeader] p {
+    color: #ffffff;
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+}
+
+div[class=introHeader] p a {
+    color: #0095c8;
+    text-decoration: none;
+}
+
+
+div[class=articleWrap] p {
+    color: #000000;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 18px;
+    text-align: center;  
+}
+
+span[class=times] {
+    display: block;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    line-height: 12px;
+    font-size: 12px;
+}
+
+div[class=whiteArticle] {
+    padding: 20px;
+    background-color: #ffffff;
+    text-align:center;
+	width:320px ;
+}
+
+div[class=whiteArticle] h2 {
+    font-family:Arial, Verdana, sans-serif; font-size:24px; line-height:32px; color:#000000; font-weight:normal;
+    margin: 0 0 20px;
+}
+
+div[class=whiteArticle] h2 span {
+    text-decoration: underline;
+}
+
+div[class=whiteArticle] p{
+    font-size: 16px;
+    line-height: 22px; 
+    text-align: left; 
+    margin: 0 0 20px;
+    font-weight: normal;   
+	
+}
+
+div[class=whiteArticle] ul {
+    margin: 0 0 20px 8px;
+    padding: 0 0 0 6px; 
+    font-size: 16px;
+    line-height: 22px;
+    text-align: left;    
+}
+
+
+
+a[class=ctaBtn] {
+    display: block;
+    padding: 20px;
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: normal;
+    color: #000000;
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+    background-color: #ffda00;
+    box-sizing: border-box;
+    text-decoration:none;
+}
+
+
+div[class=whiteArticle] h2 span {
+    display: block;
+    font-size: 12px;
+    line-height: 18px;
+    text-decoration: none;
+    font-weight: normal;
+    margin-top: 12px;
+	
+}
+
+div[class=textIndent] {
+	padding-left:25px;
+	padding-right:25px;
+}
+
+div[class=bottomFooter] {
+    text-align: left;
+    padding-left:10px;
+	padding-right:10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    font-size: 11px;
+    line-height: 16px;
+    color: #000000;
+    background-color: #f8f7f2;
+}
+div[class=topFooter] {
+    text-align: center;
+    padding: 20px 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 16px;
+    color: #ffffff;
+    background-color: #000;
+}
+
+div[class=topFooter] span {color:#ffec08;}
+
+div[class=grayBg] {background-color:#e7e8e9;   }
+
+
+
+
+td[class=desktopOnly] {
+    display: none;
+}
+
+
+
+div[class=referralFooter] p {
+    font-size: 16px;
+    line-height: 22px; 
+    text-align: center; 
+    margin: 0 0 20px;
+    font-weight: bold;  
+    color: #ffffff;  
+}
+
+div[class=referralFooter] p span {
+    color: #ffda00;
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+}
+
+div[class=referralFooter] a {
+    color: #ffffff;
+    padding: 10px 20px;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    border: solid 1px #ffffff;
+    border-radius: 8px;
+    margin: 0 auto; 
+    font-size: 16px;   
+}
+
+div[class=downloadAppFooter] {
+    background-color: #000000;
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 1px;
+    background-image: url('http://adsolutions.yp.com/sites/default/files/email/YP-Site/yps-welcome2016/download-r.jpg');
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: 320px auto;
+    padding-bottom: 118px;
+}
+
+div[class=downloadAppFooter] h2 {
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: bold; 
+    text-align: center;  
+}
+
+div[class=downloadAppFooter] p {
+    font-size: 16px;
+    line-height: 22px; 
+    text-align: center; 
+    margin: 0 0 20px;
+    font-weight: normal; 
+    color: #ffffff;     
+}
+
+div[class=downloadAppFooter] a {
+    color: #ffffff;
+    padding: 10px 20px;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    border: solid 1px #ffffff;
+    border-radius: 8px;
+    margin: 0 auto; 
+    font-size: 16px;     
+}
+
+
+
+}
+
+</style>
+        
+    </head>
+
+    <body width="100%" bgcolor="#f8f7f2" style="font-family:Arial, Helvetica, sans-serif; margin: 0px; padding: 0px;">
+
+
+
+<font style="display:none !important; visibility:hidden; opacity:0; color:transparent; height:0; width:0; mso-hide:all; line-height:0px; font-size:0px">We know you're busy - YP is here to help!</font><img src="https://pixel.monitor1.returnpath.net/pixel.gif?r=87d0ad7d41911d5dec630851121e414817775bbf&c=yps-welcome2016&ypsite=tx" alt=" " width="1" height="1" />
+<IMG SRC="http://smtpvhost3.yp.com:80/track?enid=ZWFzPTEmYW1wO21zaWQ9MSZhbXA7YXVpZD0mYW1wO21haWxpbmdpZD0zMzg0MDAmYW1wO21lc3NhZ2VpZD03NTQwMCZhbXA7ZGF0YWJhc2VpZD0xNDU3NzIzMTYwJmFtcDt0eXBlPW9wZW4mYW1wO3NlcmlhbD0xNjc5ODU2NiZhbXA7ZW1haWxpZD1uaWFyaWV0cnlAZ21haWwuY29tJmFtcDt1c2VyaWQ9MV81NzExODAmYW1wO3RhcmdldGlkPSZhbXA7Zmw9JmFtcDttdmlkPSZhbXA7ZXh0cmE9JmFtcDsmYW1wOyZhbXA7" WIDTH="1" HEIGHT="1" STYLE="border-width:0; border-style:hidden;" ALT=""/><center><br />
+  <table class="outerTable" width="100%" bgcolor="#f8f7f2" border="0" cellpadding="0" cellspacing="0" align="center">
+ <tr><td align="center" style="padding-top:10px;">
+ 
+<table width="600" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+	<table border="0" cellpadding="0" cellspacing="0" width="600">
+    	<tr><td style="padding-bottom:3px;text-align:left;font-family: Arial, Helvetica, sans-serif;font-size: 11px;color: #000000;line-height: 11px;">To ensure delivery to your inbox, please add <a href="mailto:yp@ml.yp.com " style="text-decoration:none; color:#000000"><span style="color:#000000">yp@ml.yp.com</span></a> to your safe sender list.</td><td style="padding-bottom:3px;text-align:right;font-family: Arial, Helvetica, sans-serif;font-size: 11px;color: #000000;line-height: 11px;"><a href="http://smtpvhost3.yp.com:80/track?t=v&amp;enid=ZWFzPTEmYW1wO21zaWQ9MSZhbXA7YXVpZD0mYW1wO21pZD0zMzg0MDAmYW1wO21zZ2lkPTc1NDAwJmFtcDtkaWQ9MTQ1NzcyMzE2MCZhbXA7ZWRpZD0xNDU3NzIzMTYwJmFtcDtzbj0xNjc5ODU2NiZhbXA7ZWlkPW5pYXJpZXRyeUBnbWFpbC5jb20mYW1wO2VlaWQ9bmlhcmlldHJ5QGdtYWlsLmNvbSZhbXA7dWlkPTFfNTcxMTgwJmFtcDtyaWQ9NTcxMTgwJmFtcDtlcmlkPTU3MTE4MCZhbXA7Zmw9JmFtcDttdmlkPSZhbXA7dGdpZD0mYW1wO2V4dHJhPQ==&amp;&amp;&amp;2040&amp;eu=206&amp;&amp;&amp;#" style="color:#0095c8; text-decoration: none;" class="" linkname="View Online">View Online</a></td></tr>
+     </table>
+ </td>
+ </tr>
+ </table>
+ <table width="600" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" style="border-width:2px; border-color:#cccacb; border-style:solid" align="center"><tr><td valign="top">
+ <table border="0" cellpadding="0" cellspacing="0" width="600" align="center">
+ <tr>
+ 	<td><a href="http://smtpvhost3.yp.com:80/track?type=click&amp;enid=ZWFzPTEmYW1wO21zaWQ9MSZhbXA7YXVpZD0mYW1wO21haWxpbmdpZD0zMzg0MDAmYW1wO21lc3NhZ2VpZD03NTQwMCZhbXA7ZGF0YWJhc2VpZD0xNDU3NzIzMTYwJmFtcDtzZXJpYWw9MTY3OTg1NjYmYW1wO2VtYWlsaWQ9bmlhcmlldHJ5QGdtYWlsLmNvbSZhbXA7dXNlcmlkPTFfNTcxMTgwJmFtcDt0YXJnZXRpZD0mYW1wO2ZsPSZhbXA7bXZpZD0mYW1wO2V4dHJhPSZhbXA7JmFtcDsmYW1wOw==&amp;&amp;&amp;2016&amp;&amp;&amp;http://www.yellowpages.com?from=em_yps-welcome2016&utm_medium=email&utm_source=tx&utm_campaign=yps-welcome2016" style="display: block; outline: none;"><img src="http://adsolutions.yp.com/sites/default/files/email/YP-Site/yps-welcome2016/hero1.jpg" width="600" height="72" alt="[Start Searching YP]"  style="min-width:100% !important;display: block;" border="0" /></a></td>
+  </tr>
+  <tr>
+ 	<td><a href="http://smtpvhost3.yp.com:80/track?type=click&amp;enid=ZWFzPTEmYW1wO21zaWQ9MSZhbXA7YXVpZD0mYW1wO21haWxpbmdpZD0zMzg0MDAmYW1wO21lc3NhZ2VpZD03NTQwMCZhbXA7ZGF0YWJhc2VpZD0xNDU3NzIzMTYwJmFtcDtzZXJpYWw9MTY3OTg1NjYmYW1wO2VtYWlsaWQ9bmlhcmlldHJ5QGdtYWlsLmNvbSZhbXA7dXNlcmlkPTFfNTcxMTgwJmFtcDt0YXJnZXRpZD0mYW1wO2ZsPSZhbXA7bXZpZD0mYW1wO2V4dHJhPSZhbXA7JmFtcDsmYW1wOw==&amp;&amp;&amp;2001&amp;&amp;&amp;http://www.yellowpages.com?from=em_yps-welcome2016&utm_medium=email&utm_source=tx&utm_campaign=yps-welcome2016" style="outline: none;"> <img src="http://adsolutions.yp.com/sites/default/files/email/YP-Site/yps-welcome2016/hero2.jpg" width="600" height="287" alt="[Welcome to getting things done]"   style="min-width:100% !important;display: block;" border="0" /></a></td>
+  </tr>
+  <tr>
+ 	<td><a href="http://smtpvhost3.yp.com:80/track?type=click&amp;enid=ZWFzPTEmYW1wO21zaWQ9MSZhbXA7YXVpZD0mYW1wO21haWxpbmdpZD0zMzg0MDAmYW1wO21lc3NhZ2VpZD03NTQwMCZhbXA7ZGF0YWJhc2VpZD0xNDU3NzIzMTYwJmFtcDtzZXJpYWw9MTY3OTg1NjYmYW1wO2VtYWlsaWQ9bmlhcmlldHJ5QGdtYWlsLmNvbSZhbXA7dXNlcmlkPTFfNTcxMTgwJmFtcDt0YXJnZXRpZD0mYW1wO2ZsPSZhbXA7bXZpZD0mYW1wO2V4dHJhPSZhbXA7JmFtcDsmYW1wOw==&amp;&amp;&amp;2002&amp;&amp;&amp;http://www.yellowpages.com?from=em_yps-welcome2016&utm_medium=email&utm_source=tx&utm_campaign=yps-welcome2016" style="outline: none;"> <img src="http://adsolutions.yp.com/sites/default/files/email/YP-Site/yps-welcome2016/hero3.jpg" width="600" height="101" alt="[Let's Get Started!]"  style="min-width:100% !important;display: block;" border="0" /></a></td>
+  </tr>
+  <tr>
+<td>
+	<table border="0" cellpadding="0" cellspacing="0" width="600">
+    	<tr>
+        	<td><img src="http://adsolutions.yp.com/sites/default/files/email/YP-Site/yps-welcome2016/get-done_01.jpg" width="300" height="96" alt="[What needs to get done?]" style="display:block" border="0"></td><td><a href="http://smtpvhost3.yp.com:80/track?type=click&amp;enid=ZWFzPTEmYW1wO21zaWQ9MSZhbXA7YXVpZD0mYW1wO21haWxpbmdpZD0zMzg0MDAmYW1wO21lc3NhZ2VpZD03NTQwMCZhbXA7ZGF0YWJhc2VpZD0xNDU3NzIzMTYwJmFtcDtzZXJpYWw9MTY3OTg1NjYmYW1wO2VtYWlsaWQ9bmlhcmlldHJ5QGdtYWlsLmNvbSZhbXA7dXNlcmlkPTFfNTcxMTgwJmFtcDt0YXJnZXRpZD0mYW1wO2ZsPSZhbXA7bXZpZD0mYW1wO2V4dHJhPSZhbXA7JmFtcDsmYW1wOw==&amp;&amp;&amp;2003&amp;&amp;&amp;http://www.yellowpages.com?from=em_yps-welcome2016&utm_medium=email&utm_source=tx&utm_campaign=yps-welcome2016" style="outline: none;"><img src="http://adsolutions.yp.com/sites/default/files/email/YP-Site/yps-welcome2016/get-done_02.jpg"  style="display:block" width="300" height="96" alt="[Find it on YP.com]" border="0"></a></td>
+         </tr>
+     </table>
+ </td>
+ </tr>
+ <tr>
+ <td style="padding-bottom:15px; line-height:22px"><br />
+ 	<table border="0" cellpadding="0" cellspacing="0" width="600">
+    	<tr>
+        	<td width="205" style="padding-left:20px; padding-right:20px" align="center"><a href="http://smtpvhost3.yp.com:80/track?type=click&amp;enid=ZWFzPTEmYW1wO21zaWQ9MSZhbXA7YXVpZD0mYW1wO21haWxpbmdpZD0zMzg0MDAmYW1wO21lc3NhZ2VpZD03NTQwMCZhbXA7ZGF0YWJhc2VpZD0xNDU3NzIzMTYwJmFtcDtzZXJpYWw9MTY3OTg1NjYmYW1wO2VtYWlsaWQ9bmlhcmlldHJ5QGdtYWlsLmNvbSZhbXA7dXNlcmlkPTFfNTcxMTgwJmFtcDt0YXJnZXRpZD0mYW1wO2ZsPSZhbXA7bXZpZD0mYW1wO2V4dHJhPSZhbXA7JmFtcDsmYW1wOw==&amp;&amp;&amp;2026&amp;&amp;&amp;http://www.yellowpages.com/restaurants?from=em_yps-welcome2016&utm_medium=email&utm_source=tx&utm_campaign=yps-welcome2016"><img src="http://adsolutions.yp.com/sites/default/files/email/YP-Site/yps-welcome2016/welcome-1.jpg" width="165" height="93" alt=" " border="0"></a></td><td width="395" style="text-align:left;padding-top:13px; padding-bottom:25px;padding-right:25px;font-family:Helvetica, Arial, sans-serif; font-size:14px; "><font style="font-size:18px;">Date Night... <strong>done!</strong></font><br />
+YP&#8480; can help you <a href="http://smtpvhost3.yp.com:80/track?type=click&amp;enid=ZWFzPTEmYW1wO21zaWQ9MSZhbXA7YXVpZD0mYW1wO21haWxpbmdpZD0zMzg0MDAmYW1wO21lc3NhZ2VpZD03NTQwMCZhbXA7ZGF0YWJhc2VpZD0xNDU3NzIzMTYwJmFtcDtzZXJpYWw9MTY3OTg1NjYmYW1wO2VtYWlsaWQ9bmlhcmlldHJ5QGdtYWlsLmNvbSZhbXA7dXNlcmlkPTFfNTcxMTgwJmFtcDt0YXJnZXRpZD0mYW1wO2ZsPSZhbXA7bXZpZD0mYW1wO2V4dHJhPSZhbXA7JmFtcDsmYW1wOw==&amp;&amp;&amp;2005&amp;&amp;&amp;http://www.yellowpages.com/restaurants?from=em_yps-welcome2016&utm_medium=email&utm_source=tx&utm_campaign=yps-welcome2016" style="color:#0095c8; text-decoration: none; font-weight:bold">book dinner reservations</a>, <a href="http://smtpvhost3.yp.com:80/track?type=click&amp;enid=ZWFzPTEmYW1wO21zaWQ9MSZhbXA7YXVpZD0mYW1wO21haWxpbmdpZD0zMzg0MDAmYW1wO21lc3NhZ2VpZD03NTQwMCZhbXA7ZGF0YWJhc2VpZD0xNDU3NzIzMTYwJmFtcDtzZXJpYWw9MTY3OTg1NjYmYW1wO2VtYWlsaWQ9bmlhcmlldHJ5QGdtYWlsLmNvbSZhbXA7dXNlcmlkPTFfNTcxMTgwJmFtcDt0YXJnZXRpZD0mYW1wO2ZsPSZhbXA7bXZpZD0mYW1wO2V4dHJhPSZhbXA7JmFtcDsmYW1wOw==&amp;&amp;&amp;2027&amp;&amp;&amp;http://www.yellowpages.com/MovieTheaters?from=em_yps-welcome2016&utm_medium=email&utm_source=tx&utm_campaign=yps-welcome2016" style="color:#0095c8; text-decoration: none; font-weight:bold">buy movie tickets</a>, and even help you <a href="http://smtpvhost3.yp.com:80/track?type=click&amp;enid=ZWFzPTEmYW1wO21zaWQ9MSZhbXA7YXVpZD0mYW1wO21haWxpbmdpZD0zMzg0MDAmYW1wO21lc3NhZ2VpZD03NTQwMCZhbXA7ZGF0YWJhc2VpZD0xNDU3NzIzMTYwJmFtcDtzZXJpYWw9MTY3OTg1NjYmYW1wO2VtYWlsaWQ9bmlhcmlldHJ5QGdtYWlsLmNvbSZhbXA7dXNlcmlkPTFfNTcxMTgwJmFtcDt0YXJnZXRpZD0mYW1wO2ZsPSZhbXA7bXZpZD0mYW1wO2V4dHJhPSZhbXA7JmFtcDsmYW1wOw==&amp;&amp;&amp;2028&amp;&amp;&amp;http://www.yellowpages.com/giftshops?from=em_yps-welcome2016&utm_medium=email&utm_source=tx&utm_campaign=yps-welcome2016" style="color:#0095c8; text-decoration: none; font-weight:bold">find the perfect gift</a></td>
+         </tr>
+     </table>
+     </td>
+ </tr>
+ <tr bgcolor="#e7e8ea">
+ 	<td style="padding-top:15px; padding-bottom:15px; line-height:22px">
+	 <table border="0" cellpadding="0" cellspacing="0" width="600">
+    	<tr>
+        	<td width="205" style="padding-left:20px; padding-right:20px" align="center"><a href="http://smtpvhost3.yp.com:80/track?type=click&amp;enid=ZWFzPTEmYW1wO21zaWQ9MSZhbXA7YXVpZD0mYW1wO21haWxpbmdpZD0zMzg0MDAmYW1wO21lc3NhZ2VpZD03NTQwMCZhbXA7ZGF0YWJhc2VpZD0xNDU3NzIzMTYwJmFtcDtzZXJpYWw9MTY3OTg1NjYmYW1wO2VtYWlsaWQ9bmlhcmlldHJ5QGdtYWlsLmNvbSZhbXA7dXNlcmlkPTFfNTcxMTgwJmFtcDt0YXJnZXRpZD0mYW1wO2ZsPSZhbXA7bXZpZD0mYW1wO2V4dHJhPSZhbXA7JmFtcDsmYW1wOw==&amp;&amp;&amp;2029&amp;&amp;&amp;http://www.yellowpages.com/oilchange?from=em_yps-welcome2016&utm_medium=email&utm_source=tx&utm_campaign=yps-welcome2016"><img src="http://adsolutions.yp.com/sites/default/files/email/YP-Site/yps-welcome2016/welcome-2r.jpg" width="165" height="93" alt="" border="0"/></a></td><td  width="395" style="text-align:left;padding-top:13px;padding-bottom:25px;padding-right:15px;font-family:Helvetica, Arial, sans-serif; font-size:14px"><font style="font-size:18px;">Chore List... <strong>finished!</strong></font><br />
+Need to <a href="http://smtpvhost3.yp.com:80/track?type=click&amp;enid=ZWFzPTEmYW1wO21zaWQ9MSZhbXA7YXVpZD0mYW1wO21haWxpbmdpZD0zMzg0MDAmYW1wO21lc3NhZ2VpZD03NTQwMCZhbXA7ZGF0YWJhc2VpZD0xNDU3NzIzMTYwJmFtcDtzZXJpYWw9MTY3OTg1NjYmYW1wO2VtYWlsaWQ9bmlhcmlldHJ5QGdtYWlsLmNvbSZhbXA7dXNlcmlkPTFfNTcxMTgwJmFtcDt0YXJnZXRpZD0mYW1wO2ZsPSZhbXA7bXZpZD0mYW1wO2V4dHJhPSZhbXA7JmFtcDsmYW1wOw==&amp;&amp;&amp;2013&amp;&amp;&amp;http://www.yellowpages.com/oilchange?from=em_yps-welcome2016&utm_medium=email&utm_source=tx&utm_campaign=yps-welcome2016" style="color:#0095c8; text-decoration: none; font-weight:bold">get an oil change</a>?  Or <a href="http://smtpvhost3.yp.com:80/track?type=click&amp;enid=ZWFzPTEmYW1wO21zaWQ9MSZhbXA7YXVpZD0mYW1wO21haWxpbmdpZD0zMzg0MDAmYW1wO21lc3NhZ2VpZD03NTQwMCZhbXA7ZGF0YWJhc2VpZD0xNDU3NzIzMTYwJmFtcDtzZXJpYWw9MTY3OTg1NjYmYW1wO2VtYWlsaWQ9bmlhcmlldHJ5QGdtYWlsLmNvbSZhbXA7dXNlcmlkPTFfNTcxMTgwJmFtcDt0YXJnZXRpZD0mYW1wO2ZsPSZhbXA7bXZpZD0mYW1wO2V4dHJhPSZhbXA7JmFtcDsmYW1wOw==&amp;&amp;&amp;2041&amp;&amp;&amp;http://www.yellowpages.com/dentists?from=em_yps-welcome2016&utm_medium=email&utm_source=tx&utm_campaign=yps-welcome2016" style="color:#0095c8; text-decoration: none; font-weight:bold">find a dentist</a>?  What about <a href="http://smtpvhost3.yp.com:80/track?type=click&amp;enid=ZWFzPTEmYW1wO21zaWQ9MSZhbXA7YXVpZD0mYW1wO21haWxpbmdpZD0zMzg0MDAmYW1wO21lc3NhZ2VpZD03NTQwMCZhbXA7ZGF0YWJhc2VpZD0xNDU3NzIzMTYwJmFtcDtzZXJpYWw9MTY3OTg1NjYmYW1wO2VtYWlsaWQ9bmlhcmlldHJ5QGdtYWlsLmNvbSZhbXA7dXNlcmlkPTFfNTcxMTgwJmFtcDt0YXJnZXRpZD0mYW1wO2ZsPSZhbXA7bXZpZD0mYW1wO2V4dHJhPSZhbXA7JmFtcDsmYW1wOw==&amp;&amp;&amp;2042&amp;&amp;&amp;http://www.yellowpages.com/plumbers?from=em_yps-welcome2016&utm_medium=email&utm_source=tx&utm_campaign=yps-welcome2016" style="color:#0095c8; text-decoration: none; font-weight:bold">fixing that leaky pipe</a>? YP&#8480; is your one-stop-shop so you can focus on what’s really important.</td>
+         </tr>
+     </table>
+     </td>
+ </tr>
+ <tr>
+ <td style="padding-top:15px; padding-bottom:30px; line-height:22px">
+ 	<table border="0" cellpadding="0" cellspacing="0" width="600">
+    	<tr>
+        	<td width="205" style="padding-left:20px; padding-right:20px"  align="center"><a href="http://smtpvhost3.yp.com:80/track?type=click&amp;enid=ZWFzPTEmYW1wO21zaWQ9MSZhbXA7YXVpZD0mYW1wO21haWxpbmdpZD0zMzg0MDAmYW1wO21lc3NhZ2VpZD03NTQwMCZhbXA7ZGF0YWJhc2VpZD0xNDU3NzIzMTYwJmFtcDtzZXJpYWw9MTY3OTg1NjYmYW1wO2VtYWlsaWQ9bmlhcmlldHJ5QGdtYWlsLmNvbSZhbXA7dXNlcmlkPTFfNTcxMTgwJmFtcDt0YXJnZXRpZD0mYW1wO2ZsPSZhbXA7bXZpZD0mYW1wO2V4dHJhPSZhbXA7JmFtcDsmYW1wOw==&amp;&amp;&amp;2043&amp;&amp;&amp;http://www.yellowpages.com/collections?from=em_yps-welcome2016&utm_medium=email&utm_source=tx&utm_campaign=yps-welcome2016"><img src="http://adsolutions.yp.com/sites/default/files/email/YP-Site/yps-welcome2016/welcome-3.jpg" width="165" height="93" alt="[Go Local... let's get started!]" border="0"></a></td><td  width="395" style="text-align:left;padding-top:13px; padding-bottom:25px;padding-right:15px;font-family:Helvetica, Arial, sans-serif; font-size:14px"><font style="font-size:18px;">Go Local... <strong>let's get started!</strong></font><br />
+YP&#8480; is the brand you can rely on to find your local community.  Don't just take our word for it, start exploring the <a href="http://smtpvhost3.yp.com:80/track?type=click&amp;enid=ZWFzPTEmYW1wO21zaWQ9MSZhbXA7YXVpZD0mYW1wO21haWxpbmdpZD0zMzg0MDAmYW1wO21lc3NhZ2VpZD03NTQwMCZhbXA7ZGF0YWJhc2VpZD0xNDU3NzIzMTYwJmFtcDtzZXJpYWw9MTY3OTg1NjYmYW1wO2VtYWlsaWQ9bmlhcmlldHJ5QGdtYWlsLmNvbSZhbXA7dXNlcmlkPTFfNTcxMTgwJmFtcDt0YXJnZXRpZD0mYW1wO2ZsPSZhbXA7bXZpZD0mYW1wO2V4dHJhPSZhbXA7JmFtcDsmYW1wOw==&amp;&amp;&amp;2022&amp;&amp;&amp;http://www.yellowpages.com/collections?from=em_yps-welcome2016&utm_medium=email&utm_source=tx&utm_campaign=yps-welcome2016" style="color:#0095c8; text-decoration: none; font-weight:bold">the best of your neighborhood</a>.</td>
+         </tr>
+     </table>
+     </td>
+ </tr>
+  <tr>
+      <td class="hero" width="600" bgcolor="#000000"> <a href="http://smtpvhost3.yp.com:80/track?type=click&amp;enid=ZWFzPTEmYW1wO21zaWQ9MSZhbXA7YXVpZD0mYW1wO21haWxpbmdpZD0zMzg0MDAmYW1wO21lc3NhZ2VpZD03NTQwMCZhbXA7ZGF0YWJhc2VpZD0xNDU3NzIzMTYwJmFtcDtzZXJpYWw9MTY3OTg1NjYmYW1wO2VtYWlsaWQ9bmlhcmlldHJ5QGdtYWlsLmNvbSZhbXA7dXNlcmlkPTFfNTcxMTgwJmFtcDt0YXJnZXRpZD0mYW1wO2ZsPSZhbXA7bXZpZD0mYW1wO2V4dHJhPSZhbXA7JmFtcDsmYW1wOw==&amp;&amp;&amp;2039&amp;&amp;&amp;https://bnc.lt/m/ps3dX9HGgr?from=em_yps-welcome2016" style="display: block; outline: none;"><img src="http://adsolutions.yp.com/sites/default/files/email/YP-Site/yps-welcome2016/get-the-app.jpg" width="600" height="118" alt="[Download Now]" border="0" style="min-width:100% !important;display: block;" /></a></td>
+   </tr>
+    </table>
+    </td></tr></table>
+     <table width="600" bgcolor="#f8f7f2" border="0" cellpadding="0" cellspacing="0" style="color: #000000;" align="center">
+                    <tr>
+                    <td> <table width="259" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td><img src="http://adsolutions.yp.com/sites/default/files/email/YP-Site/yps-welcome2016/welcome-s_01.jpg" width="131" height="67" alt="[Follow us on:]" border="0"></td>
+      <td><a href="http://smtpvhost3.yp.com:80/track?type=click&amp;enid=ZWFzPTEmYW1wO21zaWQ9MSZhbXA7YXVpZD0mYW1wO21haWxpbmdpZD0zMzg0MDAmYW1wO21lc3NhZ2VpZD03NTQwMCZhbXA7ZGF0YWJhc2VpZD0xNDU3NzIzMTYwJmFtcDtzZXJpYWw9MTY3OTg1NjYmYW1wO2VtYWlsaWQ9bmlhcmlldHJ5QGdtYWlsLmNvbSZhbXA7dXNlcmlkPTFfNTcxMTgwJmFtcDt0YXJnZXRpZD0mYW1wO2ZsPSZhbXA7bXZpZD0mYW1wO2V4dHJhPSZhbXA7JmFtcDsmYW1wOw==&amp;&amp;&amp;2035&amp;&amp;&amp;http://www.facebook.com/yp"><img src="http://adsolutions.yp.com/sites/default/files/email/YP-Site/yps-welcome2016/welcome-s_02.jpg" width="42" height="67" alt="[f]" border="0"></a></td>
+      <td><a href="http://smtpvhost3.yp.com:80/track?type=click&amp;enid=ZWFzPTEmYW1wO21zaWQ9MSZhbXA7YXVpZD0mYW1wO21haWxpbmdpZD0zMzg0MDAmYW1wO21lc3NhZ2VpZD03NTQwMCZhbXA7ZGF0YWJhc2VpZD0xNDU3NzIzMTYwJmFtcDtzZXJpYWw9MTY3OTg1NjYmYW1wO2VtYWlsaWQ9bmlhcmlldHJ5QGdtYWlsLmNvbSZhbXA7dXNlcmlkPTFfNTcxMTgwJmFtcDt0YXJnZXRpZD0mYW1wO2ZsPSZhbXA7bXZpZD0mYW1wO2V4dHJhPSZhbXA7JmFtcDsmYW1wOw==&amp;&amp;&amp;2036&amp;&amp;&amp;http://www.twitter.com/yp"><img src="http://adsolutions.yp.com/sites/default/files/email/YP-Site/yps-welcome2016/welcome-s_03.jpg" width="45" height="67" alt="[t]" border="0"></a></td>
+      <td><a href="http://smtpvhost3.yp.com:80/track?type=click&amp;enid=ZWFzPTEmYW1wO21zaWQ9MSZhbXA7YXVpZD0mYW1wO21haWxpbmdpZD0zMzg0MDAmYW1wO21lc3NhZ2VpZD03NTQwMCZhbXA7ZGF0YWJhc2VpZD0xNDU3NzIzMTYwJmFtcDtzZXJpYWw9MTY3OTg1NjYmYW1wO2VtYWlsaWQ9bmlhcmlldHJ5QGdtYWlsLmNvbSZhbXA7dXNlcmlkPTFfNTcxMTgwJmFtcDt0YXJnZXRpZD0mYW1wO2ZsPSZhbXA7bXZpZD0mYW1wO2V4dHJhPSZhbXA7JmFtcDsmYW1wOw==&amp;&amp;&amp;2044&amp;&amp;&amp;http://plus.google.com/+yp"><img src="http://adsolutions.yp.com/sites/default/files/email/YP-Site/yps-welcome2016/welcome-s_04.jpg" width="41" height="67" alt="[g+]" border="0"></a></td>
+      
+    </tr>
+</table></td> <td width="120" style="padding-left:30px;padding-top:8px" valign="middle" align="left"><img src="http://adsolutions.yp.com/sites/default/files/email/YP-Site/yps-welcome2016/yps-bar.jpg" style="display:block" border="0" alt=" " /></td>
+                    <td width="231"><a href="http://smtpvhost3.yp.com:80/track?type=click&amp;enid=ZWFzPTEmYW1wO21zaWQ9MSZhbXA7YXVpZD0mYW1wO21haWxpbmdpZD0zMzg0MDAmYW1wO21lc3NhZ2VpZD03NTQwMCZhbXA7ZGF0YWJhc2VpZD0xNDU3NzIzMTYwJmFtcDtzZXJpYWw9MTY3OTg1NjYmYW1wO2VtYWlsaWQ9bmlhcmlldHJ5QGdtYWlsLmNvbSZhbXA7dXNlcmlkPTFfNTcxMTgwJmFtcDt0YXJnZXRpZD0mYW1wO2ZsPSZhbXA7bXZpZD0mYW1wO2V4dHJhPSZhbXA7JmFtcDsmYW1wOw==&amp;&amp;&amp;2037&amp;&amp;&amp;https://bnc.lt/m/ps3dX9HGgr?from=em_yps-welcome2016"><img src="http://adsolutions.yp.com/sites/default/files/email/YP-Site/yps-welcome2016/dl-app2.jpg" width="209" height="67" alt="[Download the app]" border="0"></a></td>
+                    </tr>
+                    
+           </table>
+    <table width="600" border="0" cellpadding="0" cellspacing="0" align="center">
+    <tr>
+<td width="600" style="text-align:left;font-family: Arial, Helvetica, sans-serif;font-size: 11px;color: #000000;line-height: 14px;padding-left:25px;padding-right:25px;"><br /> We are unable to accept replies at this email address. Please contact our <a href="mailto:ypfeedback@yp.com" style="text-decoration: underline; color: #000000;">Customer Service</a> team for assistance.<br /><br />
+This email was sent to <a href="mailto:niarietry@gmail.com" style="text-decoration: underline; color: #000000;">niarietry@gmail.com</a>. You have received this email because you have an account registered on <a href="http://smtpvhost3.yp.com:80/track?type=click&amp;enid=ZWFzPTEmYW1wO21zaWQ9MSZhbXA7YXVpZD0mYW1wO21haWxpbmdpZD0zMzg0MDAmYW1wO21lc3NhZ2VpZD03NTQwMCZhbXA7ZGF0YWJhc2VpZD0xNDU3NzIzMTYwJmFtcDtzZXJpYWw9MTY3OTg1NjYmYW1wO2VtYWlsaWQ9bmlhcmlldHJ5QGdtYWlsLmNvbSZhbXA7dXNlcmlkPTFfNTcxMTgwJmFtcDt0YXJnZXRpZD0mYW1wO2ZsPSZhbXA7bXZpZD0mYW1wO2V4dHJhPSZhbXA7JmFtcDsmYW1wOw==&amp;&amp;&amp;2006&amp;&amp;&amp;http://www.yellowpages.com?from=em_yps-welcome2016&utm_medium=email&utm_source=tx&utm_campaign=yps-welcome2016" style="text-decoration: underline; color: #000000;">YP.com</a>. If you no longer wish to receive communications like this, please click here to <a href="http://smtpvhost3.yp.com:80/track?type=click&amp;enid=ZWFzPTEmYW1wO21zaWQ9MSZhbXA7YXVpZD0mYW1wO21haWxpbmdpZD0zMzg0MDAmYW1wO21lc3NhZ2VpZD03NTQwMCZhbXA7ZGF0YWJhc2VpZD0xNDU3NzIzMTYwJmFtcDtzZXJpYWw9MTY3OTg1NjYmYW1wO2VtYWlsaWQ9bmlhcmlldHJ5QGdtYWlsLmNvbSZhbXA7dXNlcmlkPTFfNTcxMTgwJmFtcDt0YXJnZXRpZD0mYW1wO2ZsPSZhbXA7bXZpZD0mYW1wO2V4dHJhPSZhbXA7JmFtcDsmYW1wOw==&amp;&amp;&amp;2017&amp;&amp;&amp;https://accounts.yp.com/optout/a59073f9337e134a59839b831caf0a4d92fc0d9a" style="text-decoration: underline; color: #000000;">unsubscribe</a>.<br /><br />
+
+                                                            Visit our <a href="http://smtpvhost3.yp.com:80/track?type=click&amp;enid=ZWFzPTEmYW1wO21zaWQ9MSZhbXA7YXVpZD0mYW1wO21haWxpbmdpZD0zMzg0MDAmYW1wO21lc3NhZ2VpZD03NTQwMCZhbXA7ZGF0YWJhc2VpZD0xNDU3NzIzMTYwJmFtcDtzZXJpYWw9MTY3OTg1NjYmYW1wO2VtYWlsaWQ9bmlhcmlldHJ5QGdtYWlsLmNvbSZhbXA7dXNlcmlkPTFfNTcxMTgwJmFtcDt0YXJnZXRpZD0mYW1wO2ZsPSZhbXA7bXZpZD0mYW1wO2V4dHJhPSZhbXA7JmFtcDsmYW1wOw==&amp;&amp;&amp;2018&amp;&amp;&amp;http://corporate.yp.com/privacy-policy/?from=em_yps-welcome2016&utm_medium=email&utm_source=tx&utm_campaign=yps-welcome2016" style="text-decoration: underline; color: #000000;">Privacy Policy</a> and <a href="http://smtpvhost3.yp.com:80/track?type=click&amp;enid=ZWFzPTEmYW1wO21zaWQ9MSZhbXA7YXVpZD0mYW1wO21haWxpbmdpZD0zMzg0MDAmYW1wO21lc3NhZ2VpZD03NTQwMCZhbXA7ZGF0YWJhc2VpZD0xNDU3NzIzMTYwJmFtcDtzZXJpYWw9MTY3OTg1NjYmYW1wO2VtYWlsaWQ9bmlhcmlldHJ5QGdtYWlsLmNvbSZhbXA7dXNlcmlkPTFfNTcxMTgwJmFtcDt0YXJnZXRpZD0mYW1wO2ZsPSZhbXA7bXZpZD0mYW1wO2V4dHJhPSZhbXA7JmFtcDsmYW1wOw==&amp;&amp;&amp;2019&amp;&amp;&amp;http://www.yellowpages.com/about/legal/terms-conditions?from=em_yps-welcome2016&utm_medium=email&utm_source=tx&utm_campaign=yps-welcome2016" style="text-decoration: underline; color: #000000;">Terms of Use</a> if you have any questions.<br /><br />&copy;2016 YP LLC. All rights reserved. YP, the YP logo and all other YP marks contained herein are trademarks of YP LLC and/or YP affiliated companies. All other marks contained herein are the property of their respective owners.<br /><br /> YP is located at 2247 Northlake Parkway, Tucker, GA 30084 <br /><br /><br /></td></tr>
+ </table>
+ </td></tr></table>
+
+<!--- RESPONSIVE -->
+
+<div bgcolor="#f8f7f2" class="outerResponsiveWrap" style="overflow:hidden; float:left; display:none; line-height:0px; max-height: 0px; font-size:0; visibility: hidden; text-align:left" width="320"><br />
+  
+   <table width="320" border="0" cellpadding="0" style="padding-bottom:30px;"  cellspacing="0" class="onlyMobile"><tr><td style="padding-bottom:3px"><font style="padding-bottom:3px;text-align:left;font-family: Arial, Helvetica, sans-serif;font-size: 10px;color: #000000;line-height: 11px;">To ensure delivery to your inbox, please add <a href="mailto:yp@ml.yp.com " style="text-decoration:none; color:#000000"><span style="color:#000000">yp@ml.yp.com</span> </a> to your safe sender list.</font><br /><br />  </td></tr>
+  <tr>
+   <td> <div style="height:72px"><a href="http://smtpvhost3.yp.com:80/track?type=click&amp;enid=ZWFzPTEmYW1wO21zaWQ9MSZhbXA7YXVpZD0mYW1wO21haWxpbmdpZD0zMzg0MDAmYW1wO21lc3NhZ2VpZD03NTQwMCZhbXA7ZGF0YWJhc2VpZD0xNDU3NzIzMTYwJmFtcDtzZXJpYWw9MTY3OTg1NjYmYW1wO2VtYWlsaWQ9bmlhcmlldHJ5QGdtYWlsLmNvbSZhbXA7dXNlcmlkPTFfNTcxMTgwJmFtcDt0YXJnZXRpZD0mYW1wO2ZsPSZhbXA7bXZpZD0mYW1wO2V4dHJhPSZhbXA7JmFtcDsmYW1wOw==&amp;&amp;&amp;2046&amp;&amp;&amp;http://www.yellowpages.com?from=em_yps-welcome2016&utm_medium=email&utm_source=tx&utm_campaign=yps-welcome2016"><img src="http://adsolutions.yp.com/sites/default/files/email/YP-Site/yps-welcome2016/hero-r1.jpg" width="320" height="72" alt="YP" border="0"></a></div></td></tr>
+   <tr><td>
+<div style="height:196px"><a href="http://smtpvhost3.yp.com:80/track?type=click&amp;enid=ZWFzPTEmYW1wO21zaWQ9MSZhbXA7YXVpZD0mYW1wO21haWxpbmdpZD0zMzg0MDAmYW1wO21lc3NhZ2VpZD03NTQwMCZhbXA7ZGF0YWJhc2VpZD0xNDU3NzIzMTYwJmFtcDtzZXJpYWw9MTY3OTg1NjYmYW1wO2VtYWlsaWQ9bmlhcmlldHJ5QGdtYWlsLmNvbSZhbXA7dXNlcmlkPTFfNTcxMTgwJmFtcDt0YXJnZXRpZD0mYW1wO2ZsPSZhbXA7bXZpZD0mYW1wO2V4dHJhPSZhbXA7JmFtcDsmYW1wOw==&amp;&amp;&amp;2047&amp;&amp;&amp;http://www.yellowpages.com?from=em_yps-welcome2016&utm_medium=email&utm_source=tx&utm_campaign=yps-welcome2016"><img src="http://adsolutions.yp.com/sites/default/files/email/YP-Site/yps-welcome2016/hero-r2.jpg" width="320" height="196" alt=" " border="0"></a></div></td></tr>
+<tr><td><div style="height:61px"><a href="http://smtpvhost3.yp.com:80/track?type=click&amp;enid=ZWFzPTEmYW1wO21zaWQ9MSZhbXA7YXVpZD0mYW1wO21haWxpbmdpZD0zMzg0MDAmYW1wO21lc3NhZ2VpZD03NTQwMCZhbXA7ZGF0YWJhc2VpZD0xNDU3NzIzMTYwJmFtcDtzZXJpYWw9MTY3OTg1NjYmYW1wO2VtYWlsaWQ9bmlhcmlldHJ5QGdtYWlsLmNvbSZhbXA7dXNlcmlkPTFfNTcxMTgwJmFtcDt0YXJnZXRpZD0mYW1wO2ZsPSZhbXA7bXZpZD0mYW1wO2V4dHJhPSZhbXA7JmFtcDsmYW1wOw==&amp;&amp;&amp;2048&amp;&amp;&amp;http://www.yellowpages.com?from=em_yps-welcome2016&utm_medium=email&utm_source=tx&utm_campaign=yps-welcome2016"><img src="http://adsolutions.yp.com/sites/default/files/email/YP-Site/yps-welcome2016/hero-r3.jpg" width="320" height="61" alt="[Let's Get Started!]" border="0"></a></div></td></tr>
+<tr><td><div style="height:130px"><img src="http://adsolutions.yp.com/sites/default/files/email/YP-Site/yps-welcome2016/hero-r4.jpg" width="320" height="130" alt=" " border="0"></div></td></tr>
+<tr><td>
+<div style="background-color:#000000" height="151">
+<a href="http://smtpvhost3.yp.com:80/track?type=click&amp;enid=ZWFzPTEmYW1wO21zaWQ9MSZhbXA7YXVpZD0mYW1wO21haWxpbmdpZD0zMzg0MDAmYW1wO21lc3NhZ2VpZD03NTQwMCZhbXA7ZGF0YWJhc2VpZD0xNDU3NzIzMTYwJmFtcDtzZXJpYWw9MTY3OTg1NjYmYW1wO2VtYWlsaWQ9bmlhcmlldHJ5QGdtYWlsLmNvbSZhbXA7dXNlcmlkPTFfNTcxMTgwJmFtcDt0YXJnZXRpZD0mYW1wO2ZsPSZhbXA7bXZpZD0mYW1wO2V4dHJhPSZhbXA7JmFtcDsmYW1wOw==&amp;&amp;&amp;2049&amp;&amp;&amp;http://www.yellowpages.com?from=em_yps-welcome2016&utm_medium=email&utm_source=tx&utm_campaign=yps-welcome2016"><img src="http://adsolutions.yp.com/sites/default/files/email/YP-Site/yps-welcome2016/get-done-3.jpg" width="320" height="151" alt="[What needs to get done? Find it on YP]" border="0"></a>
+</div>
+</td></tr>
+</table>
+<br /><br />
+<div class="whitearticle" style="text-align:left; line-height:18px; background-color:#ffffff;" width="320">
+<br /><br /><center><a href="http://smtpvhost3.yp.com:80/track?type=click&amp;enid=ZWFzPTEmYW1wO21zaWQ9MSZhbXA7YXVpZD0mYW1wO21haWxpbmdpZD0zMzg0MDAmYW1wO21lc3NhZ2VpZD03NTQwMCZhbXA7ZGF0YWJhc2VpZD0xNDU3NzIzMTYwJmFtcDtzZXJpYWw9MTY3OTg1NjYmYW1wO2VtYWlsaWQ9bmlhcmlldHJ5QGdtYWlsLmNvbSZhbXA7dXNlcmlkPTFfNTcxMTgwJmFtcDt0YXJnZXRpZD0mYW1wO2ZsPSZhbXA7bXZpZD0mYW1wO2V4dHJhPSZhbXA7JmFtcDsmYW1wOw==&amp;&amp;&amp;2050&amp;&amp;&amp;http://www.yellowpages.com/restaurants?from=em_yps-welcome2016&utm_medium=email&utm_source=tx&utm_campaign=yps-welcome2016"><img src="http://adsolutions.yp.com/sites/default/files/email/YP-Site/yps-welcome2016/welcome-1r.jpg" width="270" height="152" alt=" " border="0"></a></center><br /><div class="textIndent">
+<font style="font-size:18px;">Date Night... <strong>done!</strong></font><br /><br />
+YP&#8480; can help you <a href="http://smtpvhost3.yp.com:80/track?type=click&amp;enid=ZWFzPTEmYW1wO21zaWQ9MSZhbXA7YXVpZD0mYW1wO21haWxpbmdpZD0zMzg0MDAmYW1wO21lc3NhZ2VpZD03NTQwMCZhbXA7ZGF0YWJhc2VpZD0xNDU3NzIzMTYwJmFtcDtzZXJpYWw9MTY3OTg1NjYmYW1wO2VtYWlsaWQ9bmlhcmlldHJ5QGdtYWlsLmNvbSZhbXA7dXNlcmlkPTFfNTcxMTgwJmFtcDt0YXJnZXRpZD0mYW1wO2ZsPSZhbXA7bXZpZD0mYW1wO2V4dHJhPSZhbXA7JmFtcDsmYW1wOw==&amp;&amp;&amp;2026&amp;&amp;&amp;http://www.yellowpages.com/restaurants?from=em_yps-welcome2016&utm_medium=email&utm_source=tx&utm_campaign=yps-welcome2016" style="color:#0095c8; text-decoration: none; font-weight:bold">book dinner reservations</a>, <a href="http://smtpvhost3.yp.com:80/track?type=click&amp;enid=ZWFzPTEmYW1wO21zaWQ9MSZhbXA7YXVpZD0mYW1wO21haWxpbmdpZD0zMzg0MDAmYW1wO21lc3NhZ2VpZD03NTQwMCZhbXA7ZGF0YWJhc2VpZD0xNDU3NzIzMTYwJmFtcDtzZXJpYWw9MTY3OTg1NjYmYW1wO2VtYWlsaWQ9bmlhcmlldHJ5QGdtYWlsLmNvbSZhbXA7dXNlcmlkPTFfNTcxMTgwJmFtcDt0YXJnZXRpZD0mYW1wO2ZsPSZhbXA7bXZpZD0mYW1wO2V4dHJhPSZhbXA7JmFtcDsmYW1wOw==&amp;&amp;&amp;2027&amp;&amp;&amp;http://www.yellowpages.com/MovieTheaters?from=em_yps-welcome2016&utm_medium=email&utm_source=tx&utm_campaign=yps-welcome2016" style="color:#0095c8; text-decoration: none; font-weight:bold">buy movie tickets</a>, and even help you <a href="http://smtpvhost3.yp.com:80/track?type=click&amp;enid=ZWFzPTEmYW1wO21zaWQ9MSZhbXA7YXVpZD0mYW1wO21haWxpbmdpZD0zMzg0MDAmYW1wO21lc3NhZ2VpZD03NTQwMCZhbXA7ZGF0YWJhc2VpZD0xNDU3NzIzMTYwJmFtcDtzZXJpYWw9MTY3OTg1NjYmYW1wO2VtYWlsaWQ9bmlhcmlldHJ5QGdtYWlsLmNvbSZhbXA7dXNlcmlkPTFfNTcxMTgwJmFtcDt0YXJnZXRpZD0mYW1wO2ZsPSZhbXA7bXZpZD0mYW1wO2V4dHJhPSZhbXA7JmFtcDsmYW1wOw==&amp;&amp;&amp;2028&amp;&amp;&amp;http://www.yellowpages.com/giftshops?from=em_yps-welcome2016&utm_medium=email&utm_source=tx&utm_campaign=yps-welcome2016" style="color:#0095c8; text-decoration: none; font-weight:bold">find the perfect gift</a></div><br />
+<br /><div class="grayBg"><br /><br /><center><a href="http://smtpvhost3.yp.com:80/track?type=click&amp;enid=ZWFzPTEmYW1wO21zaWQ9MSZhbXA7YXVpZD0mYW1wO21haWxpbmdpZD0zMzg0MDAmYW1wO21lc3NhZ2VpZD03NTQwMCZhbXA7ZGF0YWJhc2VpZD0xNDU3NzIzMTYwJmFtcDtzZXJpYWw9MTY3OTg1NjYmYW1wO2VtYWlsaWQ9bmlhcmlldHJ5QGdtYWlsLmNvbSZhbXA7dXNlcmlkPTFfNTcxMTgwJmFtcDt0YXJnZXRpZD0mYW1wO2ZsPSZhbXA7bXZpZD0mYW1wO2V4dHJhPSZhbXA7JmFtcDsmYW1wOw==&amp;&amp;&amp;2051&amp;&amp;&amp;http://www.yellowpages.com/oil+change?from=em_yps-welcome2016&utm_medium=email&utm_source=tx&utm_campaign=yps-welcome2016"><img src="http://adsolutions.yp.com/sites/default/files/email/YP-Site/yps-welcome2016/welcome-2r.jpg" width="270" height="152" alt=" " border="0"></a></center><br /> <div class="textIndent"><font style="font-size:18px;">Chore List... <strong>finished!</strong></font><br /><br />
+Need to <a href="http://smtpvhost3.yp.com:80/track?type=click&amp;enid=ZWFzPTEmYW1wO21zaWQ9MSZhbXA7YXVpZD0mYW1wO21haWxpbmdpZD0zMzg0MDAmYW1wO21lc3NhZ2VpZD03NTQwMCZhbXA7ZGF0YWJhc2VpZD0xNDU3NzIzMTYwJmFtcDtzZXJpYWw9MTY3OTg1NjYmYW1wO2VtYWlsaWQ9bmlhcmlldHJ5QGdtYWlsLmNvbSZhbXA7dXNlcmlkPTFfNTcxMTgwJmFtcDt0YXJnZXRpZD0mYW1wO2ZsPSZhbXA7bXZpZD0mYW1wO2V4dHJhPSZhbXA7JmFtcDsmYW1wOw==&amp;&amp;&amp;2029&amp;&amp;&amp;http://www.yellowpages.com/oilchange?from=em_yps-welcome2016&utm_medium=email&utm_source=tx&utm_campaign=yps-welcome2016" style="color:#0095c8; text-decoration: none; font-weight:bold">get an oil change</a>?  Or <a href="http://smtpvhost3.yp.com:80/track?type=click&amp;enid=ZWFzPTEmYW1wO21zaWQ9MSZhbXA7YXVpZD0mYW1wO21haWxpbmdpZD0zMzg0MDAmYW1wO21lc3NhZ2VpZD03NTQwMCZhbXA7ZGF0YWJhc2VpZD0xNDU3NzIzMTYwJmFtcDtzZXJpYWw9MTY3OTg1NjYmYW1wO2VtYWlsaWQ9bmlhcmlldHJ5QGdtYWlsLmNvbSZhbXA7dXNlcmlkPTFfNTcxMTgwJmFtcDt0YXJnZXRpZD0mYW1wO2ZsPSZhbXA7bXZpZD0mYW1wO2V4dHJhPSZhbXA7JmFtcDsmYW1wOw==&amp;&amp;&amp;2041&amp;&amp;&amp;http://www.yellowpages.com/dentists?from=em_yps-welcome2016&utm_medium=email&utm_source=tx&utm_campaign=yps-welcome2016" style="color:#0095c8; text-decoration: none; font-weight:bold">find a dentist</a>?  What about <a href="http://smtpvhost3.yp.com:80/track?type=click&amp;enid=ZWFzPTEmYW1wO21zaWQ9MSZhbXA7YXVpZD0mYW1wO21haWxpbmdpZD0zMzg0MDAmYW1wO21lc3NhZ2VpZD03NTQwMCZhbXA7ZGF0YWJhc2VpZD0xNDU3NzIzMTYwJmFtcDtzZXJpYWw9MTY3OTg1NjYmYW1wO2VtYWlsaWQ9bmlhcmlldHJ5QGdtYWlsLmNvbSZhbXA7dXNlcmlkPTFfNTcxMTgwJmFtcDt0YXJnZXRpZD0mYW1wO2ZsPSZhbXA7bXZpZD0mYW1wO2V4dHJhPSZhbXA7JmFtcDsmYW1wOw==&amp;&amp;&amp;2042&amp;&amp;&amp;http://www.yellowpages.com/plumbers?from=em_yps-welcome2016&utm_medium=email&utm_source=tx&utm_campaign=yps-welcome2016" style="color:#0095c8; text-decoration: none; font-weight:bold">fixing that leaky pipe</a>? YP&#8480; is your one-stop-shop so you can focus on what’s really important.</div><br /><br /></div><br /><br /><center><a href="http://smtpvhost3.yp.com:80/track?type=click&amp;enid=ZWFzPTEmYW1wO21zaWQ9MSZhbXA7YXVpZD0mYW1wO21haWxpbmdpZD0zMzg0MDAmYW1wO21lc3NhZ2VpZD03NTQwMCZhbXA7ZGF0YWJhc2VpZD0xNDU3NzIzMTYwJmFtcDtzZXJpYWw9MTY3OTg1NjYmYW1wO2VtYWlsaWQ9bmlhcmlldHJ5QGdtYWlsLmNvbSZhbXA7dXNlcmlkPTFfNTcxMTgwJmFtcDt0YXJnZXRpZD0mYW1wO2ZsPSZhbXA7bXZpZD0mYW1wO2V4dHJhPSZhbXA7JmFtcDsmYW1wOw==&amp;&amp;&amp;2052&amp;&amp;&amp;http://www.yellowpages.com/collections?from=em_yps-welcome2016&utm_medium=email&utm_source=tx&utm_campaign=yps-welcome2016"><img src="http://adsolutions.yp.com/sites/default/files/email/YP-Site/yps-welcome2016/welcome-r3.jpg" width="270" height="150" alt="[Go Local... let's get started!]" border="0"></a></center><br /><div class="textIndent"><font style="font-size:18px;">Go Local.... <strong>let's get started!</strong></font><br /><br />
+YP&#8480; is the brand you can rely on to find your local community.  Don't just take our word for it, start exploring the <a href="http://smtpvhost3.yp.com:80/track?type=click&amp;enid=ZWFzPTEmYW1wO21zaWQ9MSZhbXA7YXVpZD0mYW1wO21haWxpbmdpZD0zMzg0MDAmYW1wO21lc3NhZ2VpZD03NTQwMCZhbXA7ZGF0YWJhc2VpZD0xNDU3NzIzMTYwJmFtcDtzZXJpYWw9MTY3OTg1NjYmYW1wO2VtYWlsaWQ9bmlhcmlldHJ5QGdtYWlsLmNvbSZhbXA7dXNlcmlkPTFfNTcxMTgwJmFtcDt0YXJnZXRpZD0mYW1wO2ZsPSZhbXA7bXZpZD0mYW1wO2V4dHJhPSZhbXA7JmFtcDsmYW1wOw==&amp;&amp;&amp;2043&amp;&amp;&amp;http://www.yellowpages.com/collections?from=em_yps-welcome2016&utm_medium=email&utm_source=tx&utm_campaign=yps-welcome2016" style="color:#0095c8; text-decoration: none; font-weight:bold">the best of your neighborhood</a>.</div><br /><br /><br />
+       </div> 
+       
+<table width="320" border="0" cellpadding="0" cellspacing="0" class="onlyMobile">
+       <tr><td width="320" style="padding-left:20px;padding-right:20px;background-color:#000000;color:#ffffff; font-size: 16px; text-align:left;line-height: 22px;"><br /><h2> Get the free YP<sup style="vertical-align: super; font-size: .6em;">SM</sup> app</h2> <p>Discover the best in local business, book appointments and more on the go!</p></td></tr>
+         <tr><td style="background-color:#000000;"><a href="http://smtpvhost3.yp.com:80/track?type=click&amp;enid=ZWFzPTEmYW1wO21zaWQ9MSZhbXA7YXVpZD0mYW1wO21haWxpbmdpZD0zMzg0MDAmYW1wO21lc3NhZ2VpZD03NTQwMCZhbXA7ZGF0YWJhc2VpZD0xNDU3NzIzMTYwJmFtcDtzZXJpYWw9MTY3OTg1NjYmYW1wO2VtYWlsaWQ9bmlhcmlldHJ5QGdtYWlsLmNvbSZhbXA7dXNlcmlkPTFfNTcxMTgwJmFtcDt0YXJnZXRpZD0mYW1wO2ZsPSZhbXA7bXZpZD0mYW1wO2V4dHJhPSZhbXA7JmFtcDsmYW1wOw==&amp;&amp;&amp;2039&amp;&amp;&amp;https://bnc.lt/m/ps3dX9HGgr?from=em_yps-welcome2016"> <img src="http://adsolutions.yp.com/sites/default/files/email/YP-Site/yps-welcome2016/download-r.jpg" border="0" alt="[Download Now]" width="320"/></a></td></tr>
+                            <tr><td>
+                <table width="320" border="0" cellpadding="0" cellspacing="0" class="onlyMobile">
+    <tr>
+      <td><img src="http://adsolutions.yp.com/sites/default/files/email/YP-Site/yps-welcome2016/welcome-s_01.jpg" width="131" height="67" alt="[Follow us on:]" border="0"></td>
+      <td><a href="http://smtpvhost3.yp.com:80/track?type=click&amp;enid=ZWFzPTEmYW1wO21zaWQ9MSZhbXA7YXVpZD0mYW1wO21haWxpbmdpZD0zMzg0MDAmYW1wO21lc3NhZ2VpZD03NTQwMCZhbXA7ZGF0YWJhc2VpZD0xNDU3NzIzMTYwJmFtcDtzZXJpYWw9MTY3OTg1NjYmYW1wO2VtYWlsaWQ9bmlhcmlldHJ5QGdtYWlsLmNvbSZhbXA7dXNlcmlkPTFfNTcxMTgwJmFtcDt0YXJnZXRpZD0mYW1wO2ZsPSZhbXA7bXZpZD0mYW1wO2V4dHJhPSZhbXA7JmFtcDsmYW1wOw==&amp;&amp;&amp;2035&amp;&amp;&amp;http://www.facebook.com/yp"><img src="http://adsolutions.yp.com/sites/default/files/email/YP-Site/yps-welcome2016/welcome-s_02.jpg" width="42" height="67" alt="[f]" border="0"></a></td>
+      <td><a href="http://smtpvhost3.yp.com:80/track?type=click&amp;enid=ZWFzPTEmYW1wO21zaWQ9MSZhbXA7YXVpZD0mYW1wO21haWxpbmdpZD0zMzg0MDAmYW1wO21lc3NhZ2VpZD03NTQwMCZhbXA7ZGF0YWJhc2VpZD0xNDU3NzIzMTYwJmFtcDtzZXJpYWw9MTY3OTg1NjYmYW1wO2VtYWlsaWQ9bmlhcmlldHJ5QGdtYWlsLmNvbSZhbXA7dXNlcmlkPTFfNTcxMTgwJmFtcDt0YXJnZXRpZD0mYW1wO2ZsPSZhbXA7bXZpZD0mYW1wO2V4dHJhPSZhbXA7JmFtcDsmYW1wOw==&amp;&amp;&amp;2036&amp;&amp;&amp;http://www.twitter.com/yp"><img src="http://adsolutions.yp.com/sites/default/files/email/YP-Site/yps-welcome2016/welcome-s_03.jpg" width="45" height="67" alt="[t]" border="0"></a></td>
+      <td><a href="http://smtpvhost3.yp.com:80/track?type=click&amp;enid=ZWFzPTEmYW1wO21zaWQ9MSZhbXA7YXVpZD0mYW1wO21haWxpbmdpZD0zMzg0MDAmYW1wO21lc3NhZ2VpZD03NTQwMCZhbXA7ZGF0YWJhc2VpZD0xNDU3NzIzMTYwJmFtcDtzZXJpYWw9MTY3OTg1NjYmYW1wO2VtYWlsaWQ9bmlhcmlldHJ5QGdtYWlsLmNvbSZhbXA7dXNlcmlkPTFfNTcxMTgwJmFtcDt0YXJnZXRpZD0mYW1wO2ZsPSZhbXA7bXZpZD0mYW1wO2V4dHJhPSZhbXA7JmFtcDsmYW1wOw==&amp;&amp;&amp;2044&amp;&amp;&amp;http://plus.google.com/+yp"><img src="http://adsolutions.yp.com/sites/default/files/email/YP-Site/yps-welcome2016/welcome-s_04.jpg" width="41" height="67" alt="[g+]" border="0"></a></td>
+      <td><img src="http://adsolutions.yp.com/sites/default/files/email/YP-Site/yps-welcome2016/welcome-s_05.jpg" width="61" height="67" alt=" " border="0"></td>
+    </tr>
+</table>
+</td></tr>
+</table>
+<table width="320" border="0" cellpadding="0" cellspacing="0" class="onlyMobile">
+<tr><td>
+<a href="http://smtpvhost3.yp.com:80/track?type=click&amp;enid=ZWFzPTEmYW1wO21zaWQ9MSZhbXA7YXVpZD0mYW1wO21haWxpbmdpZD0zMzg0MDAmYW1wO21lc3NhZ2VpZD03NTQwMCZhbXA7ZGF0YWJhc2VpZD0xNDU3NzIzMTYwJmFtcDtzZXJpYWw9MTY3OTg1NjYmYW1wO2VtYWlsaWQ9bmlhcmlldHJ5QGdtYWlsLmNvbSZhbXA7dXNlcmlkPTFfNTcxMTgwJmFtcDt0YXJnZXRpZD0mYW1wO2ZsPSZhbXA7bXZpZD0mYW1wO2V4dHJhPSZhbXA7JmFtcDsmYW1wOw==&amp;&amp;&amp;2037&amp;&amp;&amp;https://bnc.lt/m/ps3dX9HGgr?from=em_yps-welcome2016"><img src="http://adsolutions.yp.com/sites/default/files/email/YP-Site/yps-welcome2016/welcome-s_06.jpg" width="320" height="56" alt="[Download the app]" border="0"></a>
+  <div class="bottomFooter">
+     <p> We are unable to accept replies at this email address. Please contact our <a href="mailto:ypfeedback@yp.com" style="text-decoration: underline; color: #000000;">Customer Service</a> team for assistance.<br /><br />
+
+            This email was sent to <a href="mailto:niarietry@gmail.com" style="text-decoration: underline; color: #000000;">niarietry@gmail.com</a>. You have received this email because you have an account registered on <a href="http://smtpvhost3.yp.com:80/track?type=click&amp;enid=ZWFzPTEmYW1wO21zaWQ9MSZhbXA7YXVpZD0mYW1wO21haWxpbmdpZD0zMzg0MDAmYW1wO21lc3NhZ2VpZD03NTQwMCZhbXA7ZGF0YWJhc2VpZD0xNDU3NzIzMTYwJmFtcDtzZXJpYWw9MTY3OTg1NjYmYW1wO2VtYWlsaWQ9bmlhcmlldHJ5QGdtYWlsLmNvbSZhbXA7dXNlcmlkPTFfNTcxMTgwJmFtcDt0YXJnZXRpZD0mYW1wO2ZsPSZhbXA7bXZpZD0mYW1wO2V4dHJhPSZhbXA7JmFtcDsmYW1wOw==&amp;&amp;&amp;2016&amp;&amp;&amp;http://www.yellowpages.com?from=em_yps-welcome2016&utm_medium=email&utm_source=tx&utm_campaign=yps-welcome2016" style="text-decoration: underline; color: #000000;">YP.com</a>. If you no longer wish to receive communications like this, please click here to <a href="http://smtpvhost3.yp.com:80/track?type=click&amp;enid=ZWFzPTEmYW1wO21zaWQ9MSZhbXA7YXVpZD0mYW1wO21haWxpbmdpZD0zMzg0MDAmYW1wO21lc3NhZ2VpZD03NTQwMCZhbXA7ZGF0YWJhc2VpZD0xNDU3NzIzMTYwJmFtcDtzZXJpYWw9MTY3OTg1NjYmYW1wO2VtYWlsaWQ9bmlhcmlldHJ5QGdtYWlsLmNvbSZhbXA7dXNlcmlkPTFfNTcxMTgwJmFtcDt0YXJnZXRpZD0mYW1wO2ZsPSZhbXA7bXZpZD0mYW1wO2V4dHJhPSZhbXA7JmFtcDsmYW1wOw==&amp;&amp;&amp;2017&amp;&amp;&amp;https://accounts.yp.com/optout/a59073f9337e134a59839b831caf0a4d92fc0d9a" style="text-decoration: underline; color: #000000;">unsubscribe</a>.<br /><br />
+
+            Visit our <a href="http://smtpvhost3.yp.com:80/track?type=click&amp;enid=ZWFzPTEmYW1wO21zaWQ9MSZhbXA7YXVpZD0mYW1wO21haWxpbmdpZD0zMzg0MDAmYW1wO21lc3NhZ2VpZD03NTQwMCZhbXA7ZGF0YWJhc2VpZD0xNDU3NzIzMTYwJmFtcDtzZXJpYWw9MTY3OTg1NjYmYW1wO2VtYWlsaWQ9bmlhcmlldHJ5QGdtYWlsLmNvbSZhbXA7dXNlcmlkPTFfNTcxMTgwJmFtcDt0YXJnZXRpZD0mYW1wO2ZsPSZhbXA7bXZpZD0mYW1wO2V4dHJhPSZhbXA7JmFtcDsmYW1wOw==&amp;&amp;&amp;2018&amp;&amp;&amp;http://corporate.yp.com/privacy-policy/?from=em_yps-welcome2016&utm_medium=email&utm_source=tx&utm_campaign=yps-welcome2016" style="text-decoration: underline; color: #000000;">Privacy Policy</a> and <a href="http://smtpvhost3.yp.com:80/track?type=click&amp;enid=ZWFzPTEmYW1wO21zaWQ9MSZhbXA7YXVpZD0mYW1wO21haWxpbmdpZD0zMzg0MDAmYW1wO21lc3NhZ2VpZD03NTQwMCZhbXA7ZGF0YWJhc2VpZD0xNDU3NzIzMTYwJmFtcDtzZXJpYWw9MTY3OTg1NjYmYW1wO2VtYWlsaWQ9bmlhcmlldHJ5QGdtYWlsLmNvbSZhbXA7dXNlcmlkPTFfNTcxMTgwJmFtcDt0YXJnZXRpZD0mYW1wO2ZsPSZhbXA7bXZpZD0mYW1wO2V4dHJhPSZhbXA7JmFtcDsmYW1wOw==&amp;&amp;&amp;2019&amp;&amp;&amp;http://www.yellowpages.com/about/legal/terms-conditions?from=em_yps-welcome2016&utm_medium=email&utm_source=tx&utm_campaign=yps-welcome2016" style="text-decoration: underline; color: #000000;">Terms of Use</a> if you have any questions.<br /><br />
+ &copy;2016 YP LLC. All rights reserved. YP, the YP logo and all other YP marks contained herein are trademarks of YP LLC and/or YP affiliated companies. All other marks contained herein are the property of their respective owners.<br /><br />
+ YP is located at 2247 Northlake Parkway, Tucker, GA 30084
+        </p>
+    </div>                  
+</td></tr></table>
+</div>
+ 
+   </center>
+    </body>
+
+</html>
